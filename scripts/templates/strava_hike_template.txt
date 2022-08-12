@@ -1,0 +1,13 @@
+---
+layout: strava_post
+title: {{ title }}
+date: {{ date }}
+assets_folder: {{ assets_folder }}
+tags: {{ tags }}
+visible: {{ visible }}
+---
+# {{ title }}
+
+{{ leaflet_string }}
+
+![image tooltip here](/assets/image.png)
