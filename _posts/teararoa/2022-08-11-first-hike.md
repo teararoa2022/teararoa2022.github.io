@@ -8,13 +8,16 @@ tags: hiking teararoa
 visible: 1
 ---
 # Test
-{% leaflet_map {"zoom" : 13 } %}
+{% leaflet_map {"zoom" : 13,
+                 "divId" : "map_size" } %}
     {% leaflet_marker {"latitude" : 34.296184,
                        "longitude" : -117.211329,
                        "popupContent": "Arrowhead Pinacles Trail"} %} 
     {% leaflet_geojson "/assets/Afternoon_Hike.geojson" %}
 
 {% endleaflet_map %}
+
+
 
 {% leaflet_map { "center" : [63.0694,  -151.0074],
                  "zoom" : 7,
