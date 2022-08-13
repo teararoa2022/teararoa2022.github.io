@@ -4,7 +4,7 @@ from pathlib import Path
 from typing import List
 
 from jinja2 import Environment, PackageLoader, select_autoescape
-BASE_DIR = Path.cwd().parent
+BASE_DIR = Path(__file__).parent.parent
 TEMPLATE_FILE = BASE_DIR / '_templates' / 'strava_hike_template.txt'
 POSTS_DIRECTORY = BASE_DIR / '_posts'
 
@@ -58,6 +58,6 @@ strava_post_variables = StravaPostVariables(
 )
 
 file_string = strava_post_variables.generate_template()
-with open(POSTS_DIRECTORY / 'teararoa' / '2022-08-12-test-post.md', 'w') as f:
+with open(POSTS_DIRECTORY / 'teararoa' / '2022-08-12-test-post2.md', 'w') as f:
     f.write(file_string)
 

@@ -1,0 +1,17 @@
+# .github/workflows/scheduled-builds.yml
+name: Trigger Site Rebuild on a CRON Schedule
+
+on:
+  schedule:
+    # Runs "every 4 hours" (see https://crontab.guru)
+    - cron: '*/6 * * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    name: Trigger Site Rebuild
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Run Python script
+        run: python scripts/generate_strava_post.py && ls -al _posts/teararoa
