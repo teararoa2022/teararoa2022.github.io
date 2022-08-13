@@ -4,7 +4,7 @@ name: Trigger Site Rebuild on a CRON Schedule
 on:
   schedule:
     # Runs "every 4 hours" (see https://crontab.guru)
-    - cron: '*/6 * * * *'
+    - cron: '0 0 1 * *'
   workflow_dispatch:
 jobs:
   build:
@@ -13,5 +13,25 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Run Python script
-        run: python scripts/generate_strava_post.py && ls -al _posts/teararoa
+        run: python scripts/generate_strava_post.py
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+        with:
+          # The arguments for the `git add` command (see the paragraph below for more info)
+          # Default: '.'
+          add: '_posts'
+
+          # The name of the user that will be displayed as the author of the commit.
+          # Default: depends on the default_author input
+          author_name: Strava
+
+          # The message for the commit.
+          # Default: 'Commit from GitHub Actions (name of the workflow)'
+          message: 'Auto-added Strava activity'
+
+          # Whether to push the commit and, if any, its tags to the repo. It can also be used to set the git push arguments (see the paragraph below for more info)
+          # Default: true
+          push: true
