@@ -4,7 +4,7 @@ title:  "First Hike"
 date:   2022-08-11 14:40:39 +0200
 gps_data: ""
 categories: jekyll update
-tags: hiking teararoa
+tags: test
 visible: 1
 ---
 # Test

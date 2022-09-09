@@ -78,6 +78,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-leaflet
   jekyll-paginate (~> 1.1.0)
+  jekyll-sass-converter (~> 2.2.0)
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data

@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Run Python script
-        run: python scripts/generate_strava_post.py
+        run: python python/strava_post.py
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
