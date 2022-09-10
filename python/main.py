@@ -1,6 +1,11 @@
-import argparse
 import datetime
+import sys
+
+sys.path.append(".")
+
+
 import json
+import os
 from typing import List, Set
 
 from stravalib import Client
@@ -17,24 +22,28 @@ def update_already_processed_activities(original_activities: Set[int], new_activ
         json.dump(list(activities_to_exclude), f)
 
 
-if __name__ == "__main__":
+def export_refresh_token_to_github_env_variables(client: Client):
+    env_file = os.getenv("GITHUB_ENV")
+    with open(env_file, "a") as f:
+        f.write(f"STRAVA_REFRESH_TOKEN={client.refresh_token}")
 
-    parser = argparse.ArgumentParser(description="Pass Strava secrets to Python file")
-    parser.add_argument("--strava-client-id", dest="STRAVA_CLIENT_ID")
-    parser.add_argument("--strava-client-secret", dest="STRAVA_CLIENT_SECRET")
-    parser.add_argument("--strava-access-token", dest="STRAVA_ACCESS_TOKEN")
-    parser.add_argument("--strava-refresh-token", dest="STRAVA_REFRESH_TOKEN")
-    parser.add_argument("--token-expires-at", dest="TOKEN_EXPIRES_AT", type=int)
-    args = parser.parse_args()
+
+if __name__ == "__main__":
+    LOCAL = os.environ.get("Local", False)
+    STRAVA_CLIENT_ID = int(os.environ["STRAVA_CLIENT_ID"])
+    STRAVA_CLIENT_SECRET = os.environ["STRAVA_CLIENT_SECRET"]
+    STRAVA_ACCESS_TOKEN = os.environ["STRAVA_ACCESS_TOKEN"]
+    STRAVA_REFRESH_TOKEN = os.environ["STRAVA_REFRESH_TOKEN"]
+    TOKEN_EXPIRES_AT = int(os.environ["TOKEN_EXPIRES_AT"])
 
     client = Client()
     strava_interface = StravaInterface(
         client,
-        strava_client_id=args.STRAVA_CLIENT_ID,
-        strava_client_secret=args.STRAVA_CLIENT_SECRET,
-        strava_access_token=args.STRAVA_ACCESS_TOKEN,
+        strava_client_id=STRAVA_CLIENT_ID,
+        strava_client_secret=STRAVA_CLIENT_SECRET,
+        strava_access_token=STRAVA_ACCESS_TOKEN,
     )
-    strava_interface.refresh_client_access_token(args.STRAVA_REFRESH_TOKEN, args.TOKEN_EXPIRES_AT)
+    strava_interface.refresh_client_access_token(STRAVA_REFRESH_TOKEN, TOKEN_EXPIRES_AT)
 
     activity_filter = StravaActivityFilter(
         remove_already_processed_activities=True,
@@ -49,3 +58,6 @@ if __name__ == "__main__":
         strava_post = StravaPost(activity)
         strava_post.generate()
     update_already_processed_activities(activity_filter.already_processed_activities, activities)
+
+    if not LOCAL:
+        export_refresh_token_to_github_env_variables(client)
