@@ -3,8 +3,8 @@ name: Trigger Site Rebuild on a CRON Schedule
 
 on:
   schedule:
-    # Runs "every 4 hours" (see https://crontab.guru)
-    - cron: '0 0 1 * *'
+    # Runs "every hour" (see https://crontab.guru)
+    - cron: '0 * * * *'
   workflow_dispatch:
 jobs:
   build:
@@ -26,8 +26,6 @@ jobs:
           STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
           TOKEN_EXPIRES_AT: ${{ secrets.TOKEN_EXPIRES_AT }}
         run: python python/main.py
-      - name: Git status
-        run: git status
       - name: Modify refresh token
         uses: gliech/create-github-secret-action@v1
         with:
