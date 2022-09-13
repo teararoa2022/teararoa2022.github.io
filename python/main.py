@@ -19,7 +19,7 @@ def update_already_processed_activities(original_activities: Set[int], new_activ
     new_activities_ids = {activity.id for activity in new_activities}
     activities_to_exclude = original_activities.union(new_activities_ids)
     with open(ALREADY_PROCESSED_ACTIVITIES, "w") as f:
-        json.dump(list(activities_to_exclude), f)
+        json.dump(sorted(list(activities_to_exclude)), f)
 
 
 def export_refresh_token_to_github_env_variables(client: Client):
