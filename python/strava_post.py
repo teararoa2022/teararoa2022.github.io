@@ -70,7 +70,11 @@ class StravaPostStrings:
 
 {{% endleaflet_map %}}
 """
-    PHOTO_BASE_STRING = "![]({url})"
+    PHOTO_BASE_STRING = """
+<br />
+
+![]({url})
+"""
     title: str
     description: str
     map_string: str
