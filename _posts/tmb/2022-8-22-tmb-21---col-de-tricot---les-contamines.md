@@ -18,6 +18,7 @@ visible: 1
 
 
 
+![](/assets/strava.png)
 
 
 <br />
