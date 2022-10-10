@@ -19,6 +19,8 @@ visible: 1
 
 
 
+[![](/assets/strava.jpg)](https://www.strava.com/activities/7688496562)
+
 
 <br />
 

@@ -17,9 +17,9 @@ visible: 1
 {% endleaflet_map %}
 
 
-{% include strava_table.html %}
-[![](/assets/strava.jpg)](https://www.strava.com/activities/7910103296)
 
+
+[![](/assets/strava.jpg)](https://www.strava.com/activities/7688491598)
 
 
 <br />
