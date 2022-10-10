@@ -12,6 +12,8 @@ visible: {{ visible }}
 
 {{ description }}
 
+[![](/assets/strava.jpg)](https://www.strava.com/activities/{{ activity_id }})
+
 {{ photo_string }}
 
 [//]: # ( ![image tooltip here](/assets/image.png) )

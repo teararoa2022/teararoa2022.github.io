@@ -77,6 +77,7 @@ class StravaPostStrings:
 """
     title: str
     description: str
+    activity_id: str
     map_string: str
     photo_string: str
 
@@ -91,6 +92,7 @@ class StravaPostStrings:
         return cls(
             title=activity.title,
             description=activity.description if activity.description else "",
+            activity_id=str(activity.id),
             map_string=map_string,
             photo_string=photo_string,
         )
@@ -114,6 +116,7 @@ class StravaPostVariables:
             visible=self.visible,
             leaflet_string=self.strava_post_strings.map_string,
             description=self.strava_post_strings.description,
+            activity_id=self.strava_post_strings.activity_id,
             photo_string=self.strava_post_strings.photo_string,
         )
 
