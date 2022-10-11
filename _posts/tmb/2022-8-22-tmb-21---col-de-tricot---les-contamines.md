@@ -21,7 +21,6 @@ visible: 1
 [![](/assets/strava.jpg)](https://www.strava.com/activities/7910103296)
 
 
-
 <br />
 
 ![](https://dgtzuqphqg23d.cloudfront.net/A9sP4RHbr8y6h9sTyzRtx_2OjX9tizQHIZwvvhaupAc-1024x768.jpg)

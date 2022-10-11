@@ -2,7 +2,7 @@
 table {
   width: 100%;
   table-layout: fixed;
-    /*border: none;*/
+    border: none;
     border-collapse: collapse;
     padding: 0;
     margin: 0;
@@ -15,13 +15,37 @@ table {
    margin: 0;
 
 }
+.table_fixed {
+  width: 20%;
+  float: left;
+}
+.table_fixed_last {
+  width: 20%;
+  float: left;
+}
+@media only screen and (max-width: 750px) {
+  .table_fixed {
+    width: 50%
+  }
+  .table_fixed_last{
+    width: 100%;
+  }
+}
+.fixed {
+  width: 100px;
+  background: white;
+  border: none;
+  padding: 0;
+  margin: 0;
+
+}
 .h1 {
-    font-size:3vw;
-    border: none;
+    font-size:40px;
+    border: none !important;
 }
 .last-row {
-    font-size: 1vw;
     padding: 0px 0px 10px !important;
+  font-size: 18px;
 }
 td {
     border: none !important;
@@ -31,50 +55,86 @@ td {
 }
 </style>
 
-<table>
+<!--<table>-->
+<!--  <colgroup>-->
+<!--    <col class="twenty" />-->
+<!--    <col class="twenty" />-->
+<!--    <col class="twenty" />-->
+<!--    <col class="twenty" />-->
+<!--    <col class="twenty" />-->
+<!--  </colgroup>-->
+<!--  <tr class="h1">-->
+<!--    <td>15.5km</td>-->
+<!--    <td>1960m</td>-->
+<!--    <td>5:29:10</td>-->
+<!--    <td>9:10:01</td>-->
+<!--    <td>2300</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td class="last-row">Distance</td>-->
+<!--    <td class="last-row">Height Gain</td>-->
+<!--    <td class="last-row">Elapsed Time</td>-->
+<!--    <td class="last-row">Moving Time</td>-->
+<!--    <td class="last-row">Calories</td>-->
+<!--  </tr>-->
+<!--</table>-->
+
+  <table class="table_fixed">
   <colgroup>
-    <col class="twenty" />
-    <col class="twenty" />
-    <col class="twenty" />
-    <col class="twenty" />
-    <col class="twenty" />
+    <col class="fixed" />
   </colgroup>
   <tr class="h1">
-    <td>15.5 km</td>
-    <td>1960 m</td>
-    <td>5h 29m</td>
-    <td>9h 10m</td>
-    <td>2300</td>
+    <td>15.5km</td>
   </tr>
   <tr>
     <td class="last-row">Distance</td>
+  </tr>
+</table>
+
+<table class="table_fixed">
+  <colgroup>
+    <col class="fixed" />
+  </colgroup>
+  <tr class="h1">
+    <td>1960m</td>
+  </tr>
+  <tr>
     <td class="last-row">Height Gain</td>
-    <td class="last-row">Elapsed Time</td>
+  </tr>
+</table>
+
+<table class="table_fixed">
+  <colgroup>
+    <col class="fixed" />
+  </colgroup>
+  <tr class="h1">
+    <td>5:29:54</td>
+  </tr>
+  <tr>
     <td class="last-row">Moving Time</td>
+  </tr>
+</table>
+
+<table class="table_fixed">
+  <colgroup>
+    <col class="fixed" />
+  </colgroup>
+  <tr class="h1">
+    <td>9:20:10</td>
+  </tr>
+  <tr>
+    <td class="last-row">Elapsed Time</td>
+  </tr>
+</table>
+
+<table class="table_fixed_last">
+  <colgroup>
+    <col class="fixed" />
+  </colgroup>
+  <tr class="h1">
+    <td>2300</td>
+  </tr>
+  <tr>
     <td class="last-row">Calories</td>
-  </tr>
-</table>
-
-  <table>
-  <colgroup>
-    <col class="twenty" />
-  </colgroup>
-  <tr class="h1">
-    <td>15.5 km</td>
-  </tr>
-  <tr>
-    <td class="last-row">distance</td>
-  </tr>
-</table>
-
-<table>
-  <colgroup>
-    <col class="twenty" />
-  </colgroup>
-  <tr class="h1">
-    <td>15.5 km</td>
-  </tr>
-  <tr>
-    <td class="last-row">distance</td>
   </tr>
 </table>
