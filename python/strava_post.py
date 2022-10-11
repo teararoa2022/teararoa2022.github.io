@@ -75,10 +75,15 @@ class StravaPostStrings:
 
 ![]({url})
 """
+    STATISTICS_STRING = """
+{{% include strava_table.html distance="{distance}" elevation_gain="{elevation_gain}" moving_time="{moving_time}" elapsed_time="{elapsed_time}" %}}
+"""
+
     title: str
     description: str
     activity_id: str
     map_string: str
+    statistics_string: str
     photo_string: str
 
     @classmethod
@@ -88,12 +93,14 @@ class StravaPostStrings:
             leaflet_geojson=str(strava_post_paths.geojson_path),
             leaflet_center=f"[{map_center[1]}, {map_center[0]}]",
         )
+        statistics_string = cls.STATISTICS_STRING.format(**activity.statistics.format_parameters())
         photo_string = "\n".join([cls.PHOTO_BASE_STRING.format(url=url) for url in activity.photos])
         return cls(
             title=activity.title,
             description=activity.description if activity.description else "",
             activity_id=str(activity.id),
             map_string=map_string,
+            statistics_string=statistics_string,
             photo_string=photo_string,
         )
 
@@ -108,17 +115,19 @@ class StravaPostVariables:
 
     def generate_post(self):
         template = env.get_template("strava_hike_template.txt")
-        return template.render(
-            title=f'"{self.strava_post_strings.title}"',
-            start_date=self.start_date.strftime("%Y-%m-%d %H:%M:%S") + " +0200",
-            assets_folder=self.assets_folder,
-            tags=" ".join(self.tags),
-            visible=self.visible,
-            leaflet_string=self.strava_post_strings.map_string,
-            description=self.strava_post_strings.description,
-            activity_id=self.strava_post_strings.activity_id,
-            photo_string=self.strava_post_strings.photo_string,
-        )
+        template_parameters = {
+            "title": f'"{self.strava_post_strings.title}"',
+            "start_date": self.start_date.strftime("%Y-%m-%d %H:%M:%S") + " +0200",
+            "assets_folder": self.assets_folder,
+            "tags": " ".join(self.tags),
+            "visible": self.visible,
+            "leaflet_string": self.strava_post_strings.map_string,
+            "description": self.strava_post_strings.description,
+            "activity_id": self.strava_post_strings.activity_id,
+            "statistics_string": self.strava_post_strings.statistics_string,
+            "photo_string": self.strava_post_strings.photo_string,
+        }
+        return template.render(**template_parameters)
 
 
 class StravaPost:

@@ -29,7 +29,7 @@ def export_refresh_token_to_github_env_variables(client: Client):
 
 
 if __name__ == "__main__":
-    LOCAL = os.environ.get("Local", False)
+    LOCAL = os.environ.get("LOCAL", False)
     STRAVA_CLIENT_ID = int(os.environ["STRAVA_CLIENT_ID"])
     STRAVA_CLIENT_SECRET = os.environ["STRAVA_CLIENT_SECRET"]
     STRAVA_ACCESS_TOKEN = os.environ["STRAVA_ACCESS_TOKEN"]

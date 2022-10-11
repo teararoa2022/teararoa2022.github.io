@@ -12,6 +12,7 @@ visible: {{ visible }}
 
 {{ description }}
 
+{{ statistics_string }}
 [![](/assets/strava.jpg)](https://www.strava.com/activities/{{ activity_id }})
 
 {{ photo_string }}

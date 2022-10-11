@@ -17,8 +17,12 @@ visible: 1
 {% endleaflet_map %}
 
 
-{% include strava_table.html %}
-[![](/assets/strava.jpg)](https://www.strava.com/activities/7910103296)
+
+
+
+{% include strava_table.html distance="8.16" elevation_gain="213" moving_time="2:02:40" elapsed_time="3:03:20" %}
+
+[![](/assets/strava.jpg)](https://www.strava.com/activities/7688491598)
 
 
 <br />

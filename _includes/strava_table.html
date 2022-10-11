@@ -16,11 +16,11 @@ table {
 
 }
 .table_fixed {
-  width: 20%;
+  width: 25%;
   float: left;
 }
 .table_fixed_last {
-  width: 20%;
+  width: 25%;
   float: left;
 }
 @media only screen and (max-width: 750px) {
@@ -55,36 +55,12 @@ td {
 }
 </style>
 
-<!--<table>-->
-<!--  <colgroup>-->
-<!--    <col class="twenty" />-->
-<!--    <col class="twenty" />-->
-<!--    <col class="twenty" />-->
-<!--    <col class="twenty" />-->
-<!--    <col class="twenty" />-->
-<!--  </colgroup>-->
-<!--  <tr class="h1">-->
-<!--    <td>15.5km</td>-->
-<!--    <td>1960m</td>-->
-<!--    <td>5:29:10</td>-->
-<!--    <td>9:10:01</td>-->
-<!--    <td>2300</td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td class="last-row">Distance</td>-->
-<!--    <td class="last-row">Height Gain</td>-->
-<!--    <td class="last-row">Elapsed Time</td>-->
-<!--    <td class="last-row">Moving Time</td>-->
-<!--    <td class="last-row">Calories</td>-->
-<!--  </tr>-->
-<!--</table>-->
-
   <table class="table_fixed">
   <colgroup>
     <col class="fixed" />
   </colgroup>
   <tr class="h1">
-    <td>15.5km</td>
+    <td>{{ include.distance }}km</td>
   </tr>
   <tr>
     <td class="last-row">Distance</td>
@@ -96,10 +72,10 @@ td {
     <col class="fixed" />
   </colgroup>
   <tr class="h1">
-    <td>1960m</td>
+    <td>{{ include.elevation_gain }}m</td>
   </tr>
   <tr>
-    <td class="last-row">Height Gain</td>
+    <td class="last-row">Elevation Gain</td>
   </tr>
 </table>
 
@@ -108,7 +84,7 @@ td {
     <col class="fixed" />
   </colgroup>
   <tr class="h1">
-    <td>5:29:54</td>
+    <td>{{ include.moving_time }}</td>
   </tr>
   <tr>
     <td class="last-row">Moving Time</td>
@@ -120,21 +96,9 @@ td {
     <col class="fixed" />
   </colgroup>
   <tr class="h1">
-    <td>9:20:10</td>
+    <td>{{ include.elapsed_time }}</td>
   </tr>
   <tr>
     <td class="last-row">Elapsed Time</td>
-  </tr>
-</table>
-
-<table class="table_fixed_last">
-  <colgroup>
-    <col class="fixed" />
-  </colgroup>
-  <tr class="h1">
-    <td>2300</td>
-  </tr>
-  <tr>
-    <td class="last-row">Calories</td>
   </tr>
 </table>

@@ -19,6 +19,35 @@ from python.config import (
 
 
 @dataclass
+class StravaActivityStatistics:
+    distance: float
+    elevation_gain: int
+    moving_time: datetime.timedelta
+    elapsed_time: datetime.timedelta
+
+    @staticmethod
+    def from_raw_activity(activity: Activity):
+        return StravaActivityStatistics(
+            distance=activity.distance.num // 10 / 100,  # keep up to 10m (e.g. 10.34km)
+            elevation_gain=int(activity.total_elevation_gain),
+            moving_time=activity.moving_time,
+            elapsed_time=activity.elapsed_time,
+        )
+
+    def format_parameters(self) -> Dict[str, str]:
+        return {
+            "distance": str(self.distance),
+            "elevation_gain": str(self.elevation_gain),
+            "moving_time": self.time_to_str(self.moving_time),
+            "elapsed_time": self.time_to_str(self.elapsed_time),
+        }
+
+    def time_to_str(self, time: datetime.timedelta) -> str:
+        seconds = time.seconds
+        return f"{seconds // 3600}:{str(seconds // 3600 % 60).zfill(2)}:{str(seconds % 60).zfill(2)}"
+
+
+@dataclass
 class StravaActivity:
     id: int
     title: str
@@ -26,6 +55,7 @@ class StravaActivity:
     type: str
     start_date: datetime.datetime
     tags: List[str]
+    statistics: StravaActivityStatistics
     photos: Optional[List[str]] = None
     gps_data: Optional[LineString] = None
 
@@ -46,6 +76,7 @@ class StravaActivity:
             type=activity.type,
             start_date=activity.start_date,
             tags=tags,
+            statistics=StravaActivityStatistics.from_raw_activity(activity),
             photos=photos,
             gps_data=gps_data,
         )
