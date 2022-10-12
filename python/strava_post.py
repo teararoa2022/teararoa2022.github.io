@@ -7,6 +7,7 @@ from typing import List
 import geojson
 from jinja2 import Environment, PackageLoader, select_autoescape
 
+from python.config import GOOGLE_KEY
 from python.strava import StravaActivity
 
 BASE_DIR = Path(__file__).parent.parent
@@ -85,6 +86,7 @@ class StravaPostStrings:
     map_string: str
     statistics_string: str
     photo_string: str
+    thumbnail: str
 
     @classmethod
     def from_activity_and_post_paths(cls, activity: StravaActivity, strava_post_paths: StravaPostPaths):
@@ -95,6 +97,7 @@ class StravaPostStrings:
         )
         statistics_string = cls.STATISTICS_STRING.format(**activity.statistics.format_parameters())
         photo_string = "\n".join([cls.PHOTO_BASE_STRING.format(url=url) for url in activity.photos])
+        thumbnail = cls.generate_thumbnail_link(activity)
         return cls(
             title=activity.title,
             description=activity.description if activity.description else "",
@@ -102,7 +105,16 @@ class StravaPostStrings:
             map_string=map_string,
             statistics_string=statistics_string,
             photo_string=photo_string,
+            thumbnail=thumbnail,
         )
+
+    @staticmethod
+    def generate_thumbnail_link(activity: StravaActivity) -> str:
+        if activity.photos and len(activity.photos):
+            return activity.photos[0]
+        else:
+            prefix = "https://maps.googleapis.com/maps/api/staticmap?maptype=roadmap&path=enc:"
+            return f"{prefix}{activity.summary_polyline}&key={GOOGLE_KEY}&size=400x400"
 
 
 @dataclass
@@ -120,6 +132,7 @@ class StravaPostVariables:
             "start_date": self.start_date.strftime("%Y-%m-%d %H:%M:%S") + " +0200",
             "assets_folder": self.assets_folder,
             "tags": " ".join(self.tags),
+            "thumbnail": self.strava_post_strings.thumbnail,
             "visible": self.visible,
             "leaflet_string": self.strava_post_strings.map_string,
             "description": self.strava_post_strings.description,

@@ -4,6 +4,7 @@ title: "TMB #2.2 - Les Contamines - Plan Jovet"
 date: 2022-08-22 12:34:17 +0200
 assets_folder: /assets/tmb/2022-8-22-tmb-22---les-contamines---plan-jovet
 tags: tmb hiking
+thumbnail: https://dgtzuqphqg23d.cloudfront.net/kzcNM3TgVi29E6CaFx4JbNJIXHBgoZEbGKMctT6Eiro-768x1024.jpg
 visible: 1
 ---
 [//]: # "TMB #2.2 - Les Contamines - Plan Jovet"
@@ -20,7 +21,7 @@ visible: 1
 
 
 
-{% include strava_table.html distance="11.2" elevation_gain="966" moving_time="2:02:19" elapsed_time="4:04:48" %}
+{% include strava_table.html distance="11.2" elevation_gain="966" moving_time="2:59:19" elapsed_time="4:24:48" %}
 
 [![](/assets/strava.jpg)](https://www.strava.com/activities/7688496562)
 

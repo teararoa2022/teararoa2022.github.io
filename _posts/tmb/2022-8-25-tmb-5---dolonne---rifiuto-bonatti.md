@@ -4,6 +4,7 @@ title: "TMB #5 - Dolonne - Rifiuto Bonatti"
 date: 2022-08-25 08:39:41 +0200
 assets_folder: /assets/tmb/2022-8-25-tmb-5---dolonne---rifiuto-bonatti
 tags: tmb hiking
+thumbnail: https://dgtzuqphqg23d.cloudfront.net/eAu3M2kriHOpqhSdFYUffteemIerHKY0xt2jaXYk95Y-1024x768.jpg
 visible: 1
 ---
 [//]: # "TMB #5 - Dolonne - Rifiuto Bonatti"
@@ -20,7 +21,7 @@ visible: 1
 
 
 
-{% include strava_table.html distance="14.21" elevation_gain="1160" moving_time="4:04:59" elapsed_time="8:08:25" %}
+{% include strava_table.html distance="14.21" elevation_gain="1160" moving_time="4:03:59" elapsed_time="8:26:25" %}
 
 [![](/assets/strava.jpg)](https://www.strava.com/activities/7704925253)
 

@@ -4,6 +4,7 @@ title: "TMB #1 - Les Ouches - Col de Tricot"
 date: 2022-08-21 09:10:58 +0200
 assets_folder: /assets/tmb/2022-8-21-tmb-1---les-ouches---col-de-tricot
 tags: tmb hiking
+thumbnail: https://dgtzuqphqg23d.cloudfront.net/GzDrgJ434Ap-mMtnIXtLR38rAfWOq8Zw2BabfxPGuRE-1024x768.jpg
 visible: 1
 ---
 [//]: # "TMB #1 - Les Ouches - Col de Tricot"
@@ -20,7 +21,7 @@ visible: 1
 
 
 
-{% include strava_table.html distance="12.44" elevation_gain="1271" moving_time="3:03:27" elapsed_time="6:06:15" %}
+{% include strava_table.html distance="12.44" elevation_gain="1271" moving_time="3:44:27" elapsed_time="6:48:15" %}
 
 [![](/assets/strava.jpg)](https://www.strava.com/activities/7688486795)
 

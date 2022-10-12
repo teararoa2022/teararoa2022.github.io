@@ -4,6 +4,7 @@ title: "TMB #6 - Rifugio Bonatti - La Fouly"
 date: 2022-08-26 07:03:07 +0200
 assets_folder: /assets/tmb/2022-8-26-tmb-6---rifugio-bonatti---la-fouly
 tags: tmb hiking
+thumbnail: https://dgtzuqphqg23d.cloudfront.net/KkHH_DfDGvbPDxMHT5px69bzqpY_uR6nLKyqSQZTkk8-1024x768.jpg
 visible: 1
 ---
 [//]: # "TMB #6 - Rifugio Bonatti - La Fouly"
@@ -20,7 +21,7 @@ visible: 1
 
 
 
-{% include strava_table.html distance="20.73" elevation_gain="960" moving_time="5:05:42" elapsed_time="9:09:36" %}
+{% include strava_table.html distance="20.73" elevation_gain="960" moving_time="5:29:42" elapsed_time="9:04:36" %}
 
 [![](/assets/strava.jpg)](https://www.strava.com/activities/7704931022)
 

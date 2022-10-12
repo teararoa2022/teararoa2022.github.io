@@ -4,6 +4,7 @@ title: "TMB #2.1 - Col de Tricot - Les Contamines"
 date: 2022-08-22 07:08:37 +0200
 assets_folder: /assets/tmb/2022-8-22-tmb-21---col-de-tricot---les-contamines
 tags: tmb hiking
+thumbnail: https://dgtzuqphqg23d.cloudfront.net/A9sP4RHbr8y6h9sTyzRtx_2OjX9tizQHIZwvvhaupAc-1024x768.jpg
 visible: 1
 ---
 [//]: # "TMB #2.1 - Col de Tricot - Les Contamines"
@@ -19,8 +20,7 @@ visible: 1
 
 
 
-
-{% include strava_table.html distance="8.16" elevation_gain="213" moving_time="2:02:40" elapsed_time="3:03:20" %}
+{% include strava_table.html distance="8.16" elevation_gain="213" moving_time="2:22:40" elapsed_time="3:54:20" %}
 
 [![](/assets/strava.jpg)](https://www.strava.com/activities/7688491598)
 

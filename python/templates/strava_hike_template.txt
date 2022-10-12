@@ -4,6 +4,7 @@ title: {{ title }}
 date: {{ start_date }}
 assets_folder: {{ assets_folder }}
 tags: {{ tags }}
+thumbnail: {{ thumbnail }}
 visible: {{ visible }}
 ---
 [//]: # {{ title }}

@@ -50,3 +50,5 @@ REGEX_TO_TAGS = {
     r"TMB #\d.*": ["tmb", "hiking"],
     r".*#NZ.*": ["teararoa", "hiking"],
 }
+
+GOOGLE_KEY = "AIzaSyC1MId7bFpkLXNAaYhBSTb8jLyiSqzbDtM"

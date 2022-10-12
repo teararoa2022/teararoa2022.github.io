@@ -4,6 +4,7 @@ title: "TMB #4 - Col de Seigne - Dolonne"
 date: 2022-08-24 07:21:35 +0200
 assets_folder: /assets/tmb/2022-8-24-tmb-4---col-de-seigne---dolonne
 tags: tmb hiking
+thumbnail: https://dgtzuqphqg23d.cloudfront.net/fltnmiCOxL-_K46uzkfXIU4MJKyD4o4ADT1ujpL1tmU-1024x768.jpg
 visible: 1
 ---
 [//]: # "TMB #4 - Col de Seigne - Dolonne"
@@ -20,7 +21,7 @@ visible: 1
 
 
 
-{% include strava_table.html distance="19.39" elevation_gain="536" moving_time="5:05:38" elapsed_time="9:09:48" %}
+{% include strava_table.html distance="19.39" elevation_gain="536" moving_time="5:07:38" elapsed_time="9:05:48" %}
 
 [![](/assets/strava.jpg)](https://www.strava.com/activities/7696712124)
 

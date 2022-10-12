@@ -44,7 +44,7 @@ class StravaActivityStatistics:
 
     def time_to_str(self, time: datetime.timedelta) -> str:
         seconds = time.seconds
-        return f"{seconds // 3600}:{str(seconds // 3600 % 60).zfill(2)}:{str(seconds % 60).zfill(2)}"
+        return f"{seconds // 3600}:{str(seconds % 3600 // 60).zfill(2)}:{str(seconds % 60).zfill(2)}"
 
 
 @dataclass
@@ -56,6 +56,7 @@ class StravaActivity:
     start_date: datetime.datetime
     tags: List[str]
     statistics: StravaActivityStatistics
+    summary_polyline: str
     photos: Optional[List[str]] = None
     gps_data: Optional[LineString] = None
 
@@ -77,6 +78,7 @@ class StravaActivity:
             start_date=activity.start_date,
             tags=tags,
             statistics=StravaActivityStatistics.from_raw_activity(activity),
+            summary_polyline=activity.map.summary_polyline,
             photos=photos,
             gps_data=gps_data,
         )
