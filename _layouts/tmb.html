@@ -26,66 +26,55 @@ layout: default
       {%- for post in posts -%}
         {% if post.tags contains "tmb" and post.visible == 1 %}
           <style>
-            table {
+            .blog-roll-image {
+              width: 17.5% !important;
+              height: 100% !important;
+              float: left;
+              display: block;
+              padding-bottom: 2%;
+              padding-right: 2%;
+            }
+            .blog-roll-content {
+              width: 68% !important;
+              float: left;
+              display: block;
+              padding-bottom: 2%;
+              font-size: 1vw;
+            }
+            .blog-article {
               width: 100%;
-              table-layout: fixed;
-              border: none;
-              border-collapse: collapse;
-              padding: 0;
-              margin: 0;
+              height: 100px !important;
             }
-            .image_left {
-              float: left;
-              width: 20%;
-              background: white;
-              border: none;
-              padding: 10px !important;
-            }
-            .text_right {
-              text-align: left !important;
-              vertical-align: center !important;
-              float: left;
-              width: 70%;
-              padding: 10px;
-            }
-            .valign {
-                margin-top: 20px;
-            }
-            td {
-              height: 100px;
-              border: 0px !important;
-              background: white;
-              vertical-align: bottom !important;
+            @media only screen and (max-width: 700px) {
+              .blog-roll-image {
+                width: 100% !important;
+                height: 200px !important;
+              }
+
+              .blog-roll-content {
+                width: 100% !important;
+                height: 100px !important;
+              }
+              .blog-article {
+                height: 300px;
+                padding-bottom: 40px !important;
+              }
             }
           </style>
 
-        <table>
-          <colgroup>
-            <col class="image_left" />
-            <col class="text_right" />
-          </colgroup>
-          <tr>
-            <td class="image_left">
-              {%- if post.thumbnail -%}
-              <a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" alt="" /></a>
-              {%- endif -%}
-            </td>
-            <td class="text_right">
-              <li class="valign">
-                <span class="post-meta">{{ post.date | date: date_format }}</span>
-                <h3>
-                  <a class="post-link" href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}
-                  </a>
-                </h3>
-                {%- if site.show_excerpts -%}
-                {{ post.excerpt }}
-                {%- endif -%}
-              </li>
-
-            </td>
-          </tr>
-        </table>
+        <li>
+          <article class="blog-article">
+            <a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" alt="" class="blog-roll-image"/></a>
+            <div class="blog-roll-content">
+              <span class="post-meta">{{ post.date | date: date_format }}</span>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+            </div>
+          </article>
+        </li>
         {%- endif -%}
       {%- endfor -%}
     </ul>
