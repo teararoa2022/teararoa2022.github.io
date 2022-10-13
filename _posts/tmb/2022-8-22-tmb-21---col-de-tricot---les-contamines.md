@@ -20,6 +20,7 @@ visible: 1
 
 
 
+
 {% include strava_table.html distance="8.16" elevation_gain="213" moving_time="2:22:40" elapsed_time="3:54:20" %}
 
 [![](/assets/strava.jpg)](https://www.strava.com/activities/7688491598)
