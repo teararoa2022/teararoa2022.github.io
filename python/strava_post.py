@@ -7,7 +7,6 @@ from typing import List
 import geojson
 from jinja2 import Environment, PackageLoader, select_autoescape
 
-from python.config import GOOGLE_KEY
 from python.strava import StravaActivity
 
 BASE_DIR = Path(__file__).parent.parent
@@ -113,8 +112,9 @@ class StravaPostStrings:
         if activity.photos and len(activity.photos):
             return activity.photos[0]
         else:
-            prefix = "https://maps.googleapis.com/maps/api/staticmap?maptype=roadmap&path=enc:"
-            return f"{prefix}{activity.summary_polyline}&key={GOOGLE_KEY}&size=400x400"
+            return "/assets/thumbnail.jpg"
+            # prefix = "https://maps.googleapis.com/maps/api/staticmap?maptype=roadmap&path=enc:"
+            # return f"{prefix}{activity.summary_polyline}&key={GOOGLE_KEY}&size=400x400"
 
 
 @dataclass

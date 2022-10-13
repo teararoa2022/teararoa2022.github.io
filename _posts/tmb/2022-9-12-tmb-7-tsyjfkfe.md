@@ -4,7 +4,7 @@ title: "TMB #7 tsyjfkfe"
 date: 2022-09-12 11:51:09 +0200
 assets_folder: /assets/tmb/2022-9-12-tmb-7-tsyjfkfe
 tags: tmb hiking
-thumbnail: https://maps.googleapis.com/maps/api/staticmap?maptype=roadmap&path=enc:&key=AIzaSyC1MId7bFpkLXNAaYhBSTb8jLyiSqzbDtM&size=400x400
+thumbnail: /assets/thumbnail.jpg
 visible: 1
 ---
 [//]: # "TMB #7 tsyjfkfe"
