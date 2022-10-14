@@ -123,7 +123,7 @@ class StravaActivityFilter:
         return activities
 
     def _filter_already_processed_activities(self, activities: List[Activity]) -> List[Activity]:
-        return [activity for activity in activities if activity not in self.already_processed_activities]
+        return [activity for activity in activities if activity.id not in self.already_processed_activities]
 
     def _filter_activity_types(self, activities: List[Activity]) -> List[Activity]:
         return [activity for activity in activities if activity.type in self.selected_activity_types]
