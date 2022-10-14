@@ -5,6 +5,7 @@ date: 2022-08-22 12:34:17 +0200
 assets_folder: /assets/tmb/2022-8-22-tmb-22---les-contamines---plan-jovet
 tags: tmb hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/kzcNM3TgVi29E6CaFx4JbNJIXHBgoZEbGKMctT6Eiro-768x1024.jpg
+comments: true
 visible: 1
 ---
 [//]: # "TMB #2.2 - Les Contamines - Plan Jovet"

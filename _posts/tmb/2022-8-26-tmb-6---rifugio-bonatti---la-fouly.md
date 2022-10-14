@@ -5,6 +5,7 @@ date: 2022-08-26 07:03:07 +0200
 assets_folder: /assets/tmb/2022-8-26-tmb-6---rifugio-bonatti---la-fouly
 tags: tmb hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/KkHH_DfDGvbPDxMHT5px69bzqpY_uR6nLKyqSQZTkk8-1024x768.jpg
+comments: true
 visible: 1
 ---
 [//]: # "TMB #6 - Rifugio Bonatti - La Fouly"

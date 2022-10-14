@@ -5,6 +5,7 @@ date: 2022-08-21 09:10:58 +0200
 assets_folder: /assets/tmb/2022-8-21-tmb-1---les-ouches---col-de-tricot
 tags: tmb hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/GzDrgJ434Ap-mMtnIXtLR38rAfWOq8Zw2BabfxPGuRE-1024x768.jpg
+comments: true
 visible: 1
 ---
 [//]: # "TMB #1 - Les Ouches - Col de Tricot"

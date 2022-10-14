@@ -5,6 +5,7 @@ date: 2022-08-23 07:35:01 +0200
 assets_folder: /assets/tmb/2022-8-23-tmb-3---plan-jovet---col-de-seigne
 tags: tmb hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/zF3AIAZDgka0CXhvuX6Fz3o6qQIIm-4hjJ0WlHKp7Y8-768x1024.jpg
+comments: true
 visible: 1
 ---
 [//]: # "TMB #3 - Plan Jovet - Col de Seigne"

@@ -5,6 +5,7 @@ date: {{ start_date }}
 assets_folder: {{ assets_folder }}
 tags: {{ tags }}
 thumbnail: {{ thumbnail }}
+comments: true
 visible: {{ visible }}
 ---
 [//]: # {{ title }}

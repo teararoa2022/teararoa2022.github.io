@@ -5,6 +5,7 @@ date: 2022-09-12 11:51:09 +0200
 assets_folder: /assets/tmb/2022-9-12-tmb-7-tsyjfkfe
 tags: tmb hiking
 thumbnail: /assets/thumbnail.jpg
+comments: true
 visible: 1
 ---
 [//]: # "TMB #7 tsyjfkfe"

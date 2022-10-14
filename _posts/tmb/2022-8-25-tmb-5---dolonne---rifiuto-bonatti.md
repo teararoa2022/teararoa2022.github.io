@@ -5,6 +5,7 @@ date: 2022-08-25 08:39:41 +0200
 assets_folder: /assets/tmb/2022-8-25-tmb-5---dolonne---rifiuto-bonatti
 tags: tmb hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/eAu3M2kriHOpqhSdFYUffteemIerHKY0xt2jaXYk95Y-1024x768.jpg
+comments: true
 visible: 1
 ---
 [//]: # "TMB #5 - Dolonne - Rifiuto Bonatti"

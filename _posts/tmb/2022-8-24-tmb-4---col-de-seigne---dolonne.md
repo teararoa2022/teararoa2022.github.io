@@ -5,6 +5,7 @@ date: 2022-08-24 07:21:35 +0200
 assets_folder: /assets/tmb/2022-8-24-tmb-4---col-de-seigne---dolonne
 tags: tmb hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/fltnmiCOxL-_K46uzkfXIU4MJKyD4o4ADT1ujpL1tmU-1024x768.jpg
+comments: true
 visible: 1
 ---
 [//]: # "TMB #4 - Col de Seigne - Dolonne"

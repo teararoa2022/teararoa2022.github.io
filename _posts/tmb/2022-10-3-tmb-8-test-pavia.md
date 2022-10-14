@@ -5,6 +5,7 @@ date: 2022-10-03 13:48:17 +0200
 assets_folder: /assets/tmb/2022-10-3-tmb-8-test-pavia
 tags: tmb hiking
 thumbnail: /assets/thumbnail.jpg
+comments: true
 visible: 1
 ---
 [//]: # "TMB #8 Test Pavia"
