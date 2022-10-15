@@ -21,8 +21,10 @@
 }
 @media only screen and (max-width: 700px) {
   .blog-roll-image {
-    width: 100% !important;
+    width: 80% !important;
     height: 220px !important;
+    margin-left: 10%;
+    margin-right: auto;
   }
 
   .blog-roll-content {
@@ -44,9 +46,35 @@
   padding-bottom: 2%;
   padding-right: 2%;
 }
+.podcast-blog-roll-content {
+  width: 68% !important;
+  float: left;
+  display: block;
+  padding-bottom: 2%;
+  font-size: 1vw;
+}
+.podcast {
+  width: 100%;
+  height: 100px !important;
+}
 @media only screen and (max-width: 700px) {
   .podcast-blog-roll-image {
     width: auto !important;
-    height: 220px !important;
+    height: 110px !important;
+    padding-bottom: 2px !important;
+  }
+  .podcast-blog-roll-content {
+    width: 64% !important;
+    min-height: 110px !important;
+    float: left;
+    display: block;
+    padding-bottom: 2%;
+  }
+  .post-link {
+    font-size: 18px;
+  }
+  .podcast {
+    height: auto !important;
+    padding-bottom: 00px !important;
   }
 }

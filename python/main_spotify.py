@@ -1,14 +1,12 @@
 import sys
 
-from python.spotify import SpotifyEpisode, SpotifyManager, SpotifyPost
-
 sys.path.append(".")
-
 
 import json
 from typing import List, Set
 
 from python.config import ALREADY_PROCESSED_PODCASTS
+from python.spotify import SpotifyEpisode, SpotifyManager, SpotifyPost
 
 
 def update_already_processed_podcasts(original_podcasts: Set[int], new_podcasts: List[SpotifyEpisode]):
