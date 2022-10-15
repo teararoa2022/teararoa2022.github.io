@@ -38,7 +38,7 @@ layout: default
         {% if post.tags contains "podcast" and post.visible == 1 %}
           <li>
             <article class="blog-article">
-              <a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" alt="" class="blog-roll-image"/></a>
+              <a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" alt="" class="podcast-blog-roll-image"/></a>
               <div class="blog-roll-content">
                 <span class="post-meta">{{ post.date | date: date_format }}</span>
                 <h3>

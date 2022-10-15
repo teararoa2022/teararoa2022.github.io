@@ -36,3 +36,17 @@
 }
 
 // SPOTIFY //
+.podcast-blog-roll-image {
+  width: 100px !important;
+  height: 100% !important;
+  float: left;
+  display: block;
+  padding-bottom: 2%;
+  padding-right: 2%;
+}
+@media only screen and (max-width: 700px) {
+  .podcast-blog-roll-image {
+    width: auto !important;
+    height: 220px !important;
+  }
+}
