@@ -2,14 +2,21 @@
 layout: default
 ---
 
-<style>
-  #map_size {height: 500px;}
-</style>
-
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+
+  <iframe style="border-radius:12px"
+          src="https://open.spotify.com/embed/show/7kqx8Nc4qKPCAuOdYNwFx1?utm_source=generator"
+          width="100%" height="232" frameBorder="0"
+          allowfullscreen=""
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+  </iframe>
+
+
+  <br />
+  <br />
 
   {{ content }}
 
@@ -28,7 +35,7 @@ layout: default
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-        {% if post.tags contains "tmb" and post.visible == 1 %}
+        {% if post.tags contains "podcast" and post.visible == 1 %}
           <li>
             <article class="blog-article">
               <a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" alt="" class="blog-roll-image"/></a>
@@ -42,6 +49,17 @@ layout: default
               </div>
             </article>
           </li>
+<!--        <li>-->
+<!--          <span class="post-meta">{{ post.date | date: date_format }}</span>-->
+<!--          <h3>-->
+<!--            <a class="post-link" href="{{ post.url | relative_url }}">-->
+<!--              {{ post.title | escape }}-->
+<!--            </a>-->
+<!--          </h3>-->
+<!--          {%- if site.show_excerpts -%}-->
+<!--            {{ post.excerpt }}-->
+<!--          {%- endif -%}-->
+<!--        </li>-->
         {%- endif -%}
       {%- endfor -%}
     </ul>

@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Install dependencies
         run: make install
-      - name: Run Python script
+      - name: Run update Strava
         # Forces refresh of the token
         env:
           STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
@@ -25,13 +25,18 @@ jobs:
           STRAVA_ACCESS_TOKEN: ${{ secrets.STRAVA_ACCESS_TOKEN }}
           STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
           TOKEN_EXPIRES_AT: ${{ secrets.TOKEN_EXPIRES_AT }}
-        run: python python/main.py
+        run: python python/main_strava.py
       - name: Modify refresh token
         uses: gliech/create-github-secret-action@v1
         with:
           name: STRAVA_REFRESH_TOKEN
           value: ${{ env.STRAVA_REFRESH_TOKEN }}
           pa_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      - name: Run update Spotify
+        env:
+          SPOTIPY_CLIENT_ID: ${{ secrets.SPOTIPY_CLIENT_ID }}
+          SPOTIPY_CLIENT_SECRET: ${{ secrets.SPOTIPY_CLIENT_SECRET }}
+        run: python python/main_spotify.py
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:

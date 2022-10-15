@@ -1,0 +1,13 @@
+---
+layout: spotify_post
+title: {{ title }}
+date: {{ date }}
+tags: {{ tags }}
+thumbnail: {{ thumbnail }}
+comments: true
+visible: {{ visible }}
+---
+
+{{ description }}
+
+{{ embed }}
