@@ -6,6 +6,7 @@ vendor
 
 .idea
 .DS_Store
+.cache
 
 notebooks
 __pycache__

@@ -54,4 +54,4 @@ REGEX_TO_TAGS = {
 
 GOOGLE_KEY = "AIzaSyC1MId7bFpkLXNAaYhBSTb8jLyiSqzbDtM"
 
-SPOTIFY_SHOW = "spotify:show:7kqx8Nc4qKPCAuOdYNwFx1"
+SPOTIFY_SHOW = "spotify:show:1dXhQ0ucwq7zykrM9r5Fbb"

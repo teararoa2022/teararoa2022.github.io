@@ -20,7 +20,7 @@ Starting in Cape Reinga, the northernmost point of the North Island, we are goin
 {% leaflet_geojson "/assets/te_araroa_track.geojson" %}
 {% endleaflet_map %}
 <br />
-We let you here follow our steps...! Enjoy! (We will 😜)
+We let you here follow our steps...! Enjoy! (Because we will 😜)
 
 
 To read about our preparation hike on Tour du Mont Blanc (TMB) ->

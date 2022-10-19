@@ -8,7 +8,6 @@ thumbnail: {{ thumbnail }}
 comments: true
 visible: {{ visible }}
 ---
-[//]: # {{ title }}
 
 {{ leaflet_string }}
 
@@ -18,5 +17,3 @@ visible: {{ visible }}
 [![](/assets/strava.jpg)](https://www.strava.com/activities/{{ activity_id }})
 
 {{ photo_string }}
-
-[//]: # ( ![image tooltip here](/assets/image.png) )
