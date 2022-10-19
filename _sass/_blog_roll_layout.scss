@@ -5,14 +5,15 @@
   height: 100% !important;
   float: left;
   display: block;
-  padding-bottom: 2%;
-  padding-right: 2%;
+  margin-bottom: 2%;
+  margin-right: 2%;
+  border-radius: 8px;
 }
 .blog-roll-content {
   width: 68% !important;
   float: left;
   display: block;
-  padding-bottom: 2%;
+  margin-bottom: 2%;
   font-size: 1vw;
 }
 .blog-article {
@@ -33,7 +34,7 @@
   }
   .blog-article {
     height: 320px;
-    padding-bottom: 40px !important;
+    margin-bottom: 40px !important;
   }
 }
 
@@ -43,14 +44,15 @@
   height: 100% !important;
   float: left;
   display: block;
-  padding-bottom: 2%;
-  padding-right: 2%;
+  margin-bottom: 2%;
+  margin-right: 2%;
+  border-radius: 8px;
 }
 .podcast-blog-roll-content {
   width: 68% !important;
   float: left;
   display: block;
-  padding-bottom: 2%;
+  margin-bottom: 2%;
   font-size: 1vw;
 }
 .podcast {
@@ -61,20 +63,20 @@
   .podcast-blog-roll-image {
     width: auto !important;
     height: 110px !important;
-    padding-bottom: 2px !important;
+    margin-bottom: 2px !important;
   }
   .podcast-blog-roll-content {
     width: 64% !important;
     min-height: 110px !important;
     float: left;
     display: block;
-    padding-bottom: 2%;
+    margin-bottom: 2%;
   }
   .post-link {
     font-size: 18px;
   }
   .podcast {
     height: auto !important;
-    padding-bottom: 00px !important;
+    margin-bottom: 00px !important;
   }
 }
