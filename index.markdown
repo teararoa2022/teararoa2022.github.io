@@ -5,7 +5,6 @@
 layout: homepage
 ---
 
-## Ora kia! (Hello! in Maori)
 We are Ondine and Stefano, a Swiss-French-Italian couple whose real love is hiking!
 
 ![](/assets/index0.jpg)
