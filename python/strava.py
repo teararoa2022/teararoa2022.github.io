@@ -85,9 +85,14 @@ class StravaActivity:
 
     @classmethod
     def get_activity_tags(cls, activity: Activity) -> List[str]:
+        description = activity.description if activity.description else ""
         for regex, tags in REGEX_TO_TAGS.items():
-            if re.match(regex, activity.name) or re.match(regex, activity.description):
-                return tags
+            try:
+                if re.match(regex, activity.name) or re.match(regex, description):
+                    return tags
+            except Exception as e:
+                print(regex, activity.name, activity.description)
+                raise e
         return []
 
 

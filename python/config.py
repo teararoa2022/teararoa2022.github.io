@@ -49,8 +49,8 @@ SELECTED_ACTIVITY_TYPES = {"Hike"}
 # The first tag will be the destination folder
 REGEX_TO_TAGS = {
     r"Tour du Mont Blanc.*": ["tmb", "hiking"],
-    r"Alta Via 9 -.*": ["altavia9", "hiking"],
-    r".*#NZ.*": ["teararoa", "hiking"],
+    r"Alta Via 9.*": ["altavia9", "hiking"],
+    r"Te Araroa.*": ["teararoa", "hiking"],
 }
 
 GOOGLE_KEY = "AIzaSyC1MId7bFpkLXNAaYhBSTb8jLyiSqzbDtM"
