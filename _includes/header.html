@@ -16,7 +16,9 @@
 
         <div class="trigger">
           {%- for page in sorted_pages -%}
-            <a class="page-link" href="{{ page.url }}">{{ page.title }}</a>
+            {%- if page.order -%}
+              <a class="page-link" href="{{ page.url }}">{{ page.title }}</a>
+            {%- endif -%}
           {%- endfor -%}
         </div>
       </nav>
