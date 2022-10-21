@@ -121,8 +121,6 @@ class StravaActivityFilter:
         activities = self._filter_already_processed_activities(activities)
         activities = self._filter_activity_types(activities)
         activities = self._filter_taggable_activities(activities)
-        for act in activities:
-            print(act.name, act.description)
         return activities
 
     def _filter_already_processed_activities(self, activities: List[Activity]) -> List[Activity]:
