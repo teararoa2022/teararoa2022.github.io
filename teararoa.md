@@ -1,9 +1,10 @@
 ---
 layout: trekking
-title: Te Araroa 2022
-title_long: Te Araroa 2022
+title: Te Araroa
+title_long: Te Araroa - New Zealand - 2022
 tag: teararoa
 permalink: /teararoa/
+order: 1
 ---
 
 {% leaflet_map {"zoom" : 5,

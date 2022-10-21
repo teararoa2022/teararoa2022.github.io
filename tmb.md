@@ -1,9 +1,10 @@
 ---
 layout: trekking
-title: TMB 2022
-title_long: Tour du Mont Blanc 2022
+title: TMB 
+title_long: Tour du Mont Blanc - 2022
 tag: tmb
 permalink: /tmb/
+order: 3
 ---
 
 Half done unfortunately ;)
