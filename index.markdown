@@ -16,7 +16,12 @@ Starting in Cape Reinga, the northernmost point of the North Island, we are goin
 {% leaflet_map {"zoom" : 5,
 "center": [-41.426699, 172.677591],
 "divId" : "homepage_map_size" } %}
+
 {% leaflet_geojson "/assets/te_araroa_track.geojson" %}
+
+{% leaflet_marker { "latitude" : -34.42669,
+                       "longitude" : 172.677591,
+                       "popupContent" : "We are here!"} %}
 {% endleaflet_map %}
 <br />
 We let you here follow our steps...! Enjoy! (Because we will 😜)
