@@ -87,12 +87,8 @@ class StravaActivity:
     def get_activity_tags(cls, activity: Activity) -> List[str]:
         description = activity.description if activity.description else ""
         for regex, tags in REGEX_TO_TAGS.items():
-            try:
-                if re.match(regex, activity.name) or re.match(regex, description):
-                    return tags
-            except Exception as e:
-                print(regex, activity.name, activity.description)
-                raise e
+            if re.match(regex, activity.name) or re.match(regex, description):
+                return tags
         return []
 
 
@@ -125,6 +121,8 @@ class StravaActivityFilter:
         activities = self._filter_already_processed_activities(activities)
         activities = self._filter_activity_types(activities)
         activities = self._filter_taggable_activities(activities)
+        for act in activities:
+            print(act.name, act.description)
         return activities
 
     def _filter_already_processed_activities(self, activities: List[Activity]) -> List[Activity]:
