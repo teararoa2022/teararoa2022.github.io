@@ -8,7 +8,7 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">Tour du Mont Blanc 2022</h1>
+    <h1 class="page-heading">{{ page.title_long }}</h1>
   {%- endif -%}
 
   {{ content }}
@@ -28,7 +28,7 @@ layout: default
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-        {% if post.tags contains "tmb" and post.visible == 1 %}
+        {% if post.tags contains page.tag and post.visible == 1 %}
           <li>
             <article class="blog-article">
               <a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" alt="" class="blog-roll-image"/></a>

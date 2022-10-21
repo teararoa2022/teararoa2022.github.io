@@ -1,9 +1,9 @@
 ---
 layout: trekking
-title: Te Araroa 2022
-title_long: Te Araroa 2022
-tag: teararoa
-permalink: /teararoa/
+title: Alta Via 9
+title_long: Dolomites Alta Via 9
+tag: altavia9
+permalink: /altavia9/
 ---
 
 {% leaflet_map {"zoom" : 5,
