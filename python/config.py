@@ -45,7 +45,7 @@ STRAVA_ACTIVITY_TYPES = {
     "Workout",
     "Yoga",
 }
-SELECTED_ACTIVITY_TYPES = {"Hike"}
+SELECTED_ACTIVITY_TYPES = {"Hike", "Ride", "Kayaking", "Canoeing"}
 
 # The first tag will be the destination folder
 REGEX_TO_TAGS = {
