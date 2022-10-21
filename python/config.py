@@ -48,7 +48,8 @@ SELECTED_ACTIVITY_TYPES = {"Hike"}
 
 # The first tag will be the destination folder
 REGEX_TO_TAGS = {
-    r"TMB #\d.*": ["tmb", "hiking"],
+    r"Tour du Mont Blanc.*": ["tmb", "hiking"],
+    r"Alta Via 9 -.*": ["altavia9", "hiking"],
     r".*#NZ.*": ["teararoa", "hiking"],
 }
 
