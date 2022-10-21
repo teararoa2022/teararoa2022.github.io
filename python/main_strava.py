@@ -13,7 +13,12 @@ from typing import List, Set
 
 from stravalib import Client
 
-from python.config import ALREADY_PROCESSED_ACTIVITIES, ASSETS_DIR, REGEX_TO_TAGS
+from python.config import (
+    ALREADY_PROCESSED_ACTIVITIES,
+    ASSETS_DIR,
+    INCLUDE_DIR,
+    REGEX_TO_TAGS,
+)
 from python.strava import StravaActivity, StravaActivityFilter, StravaInterface
 from python.strava_post import StravaPost
 
@@ -79,6 +84,34 @@ def add_tags_recap_geojson():
         _add_tag_recap_geojson(tag)
 
 
+def get_homepage_map_string():
+    BASE_STRING = """{{% leaflet_map {{"zoom" : 5,
+    "center": [-41.426699, 172.677591],
+    "divId" : "homepage_map_size" }} %}}
+
+    {{% leaflet_geojson "/assets/te_araroa_track.geojson" %}}
+
+    {{% leaflet_marker {{ "latitude" : {latitude},
+                           "longitude" : {longitude},
+                           "popupContent" : "We are here!"}} %}}
+    {{% endleaflet_map %}}
+    """
+    trail_done_path = ASSETS_DIR / "teararoa" / "teararoa.geojson"
+    if trail_done_path.exists():
+        with open(trail_done_path, "r") as f:
+            trail_done = geojson.load(f)["coordinates"]
+        if len(trail_done) and len(trail_done[-1]):
+            longitude, latitude = trail_done[-1][-1]
+            return BASE_STRING.format(latitude=latitude, longitude=longitude)
+    return BASE_STRING.format(latitude=-34.426699, longitude=172.677591)
+
+
+def add_updated_marker_to_homepage():
+    homepage_map_string = get_homepage_map_string()
+    with open(INCLUDE_DIR / "homepage_map.html", "w") as f:
+        f.write(homepage_map_string)
+
+
 if __name__ == "__main__":
     LOCAL = os.environ.get("LOCAL", False)
     STRAVA_CLIENT_ID = int(os.environ["STRAVA_CLIENT_ID"])
@@ -98,6 +131,7 @@ if __name__ == "__main__":
 
     strava_posts = generate_posts(strava_interface)
     add_tags_recap_geojson()
+    add_updated_marker_to_homepage()
 
     if not LOCAL:
         export_refresh_token_to_github_env_variables(client)

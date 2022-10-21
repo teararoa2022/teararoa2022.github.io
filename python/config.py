@@ -2,6 +2,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).parent.parent
 ASSETS_DIR = BASE_DIR / "assets"
+INCLUDE_DIR = BASE_DIR / "_includes"
 ALREADY_PROCESSED_ACTIVITIES = ASSETS_DIR / "already_processed_activities.json"
 ALREADY_PROCESSED_PODCASTS = ASSETS_DIR / "already_processed_podcasts.json"
 

@@ -63,7 +63,7 @@ class StravaPostPaths:
 @dataclass
 class StravaPostStrings:
     MAP_BASE_STRING = """
-{{% leaflet_map {{"zoom" : 13,
+{{% leaflet_map {{"zoom" : 12,
                   "center": {leaflet_center},
                  "divId" : "map_size" }} %}}
     {{% leaflet_geojson "{leaflet_geojson}" %}}
