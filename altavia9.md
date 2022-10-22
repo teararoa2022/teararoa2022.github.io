@@ -14,7 +14,5 @@ Starting in the heights of Bolzano in Italy, this gorgeous hike brought us almos
 "divId" : "map_size" } %}
 {% leaflet_geojson "/assets/altavia9/altavia9.geojson" %}
 {% endleaflet_map %}
-
 <br />
-
 This hike, around 130km long and with around 8500m of elevation gain, took us 11 days to complete, including one day of rest in Cortina. We had the chance to hike the first 5 days until the piccolo Lagazuoi with 4 amazing friends. Thank you Ali, André, Leo e Lucia, from the bottom of our hearts! That being said, we still need to determine who is Joey and who is Chandler... 😜!
