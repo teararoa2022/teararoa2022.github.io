@@ -5,7 +5,7 @@
 layout: homepage
 ---
 
-We are Ondine and Stefano, a Swiss-French-Italian couple whose real love is hiking!
+Welcome to Ondine and Stefano's hiking website!
 
 ![](/assets/index0.jpg)
 
@@ -15,5 +15,7 @@ Starting in Cape Reinga, the northernmost point of the North Island, we are goin
 <br />
 {% include homepage_map.html %}
 <br />
-We let you here follow our steps...! Enjoy! (Because we will 😜)
+We let you [here]({% link teararoa.md %}) follow our steps...! Enjoy! (Because we will 😜)
 
+
+If you are interested in the other long hikes we did, you can find [here]({% link altavia9.md %}) some posts about the Alta Via 9 that we hiked in summer 2021 in the Dolomites, Italy, and you can find [here]({% link tmb.md %}) some posts about our partial Tour du Mont Blanc hike that we did in summer 2022.
