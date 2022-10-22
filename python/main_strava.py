@@ -60,8 +60,9 @@ def _compute_data_for_tag(tag_dir):
     for folder in sorted(tag_dir.glob("*")):
         if folder.is_dir():
             geojson_file = folder / "gps_data.geojson"
-            with open(geojson_file, "r") as f:
-                data.append(geojson.load(f)["coordinates"][::10])
+            if geojson_file.exists():
+                with open(geojson_file, "r") as f:
+                    data.append(geojson.load(f)["coordinates"][::10])
     return data
 
 
