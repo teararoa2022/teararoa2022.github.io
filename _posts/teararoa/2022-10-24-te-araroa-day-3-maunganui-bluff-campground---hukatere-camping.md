@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-34.793006500000004, 172.9958845],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-10-24-te-araroa-day-3-maunganui-bluff-campground---hukatere-camping/gps_data.geojson" %}
