@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-34.596451, 172.801075],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-10-23-te-araroa-day-2-twilight-campsite---maunganui-bluff-campground/gps_data.geojson" %}
