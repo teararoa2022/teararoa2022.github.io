@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-34.970271999999994, 173.1304255],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-10-25-te-araroa-day-4-hukatere-camping---waipapakauri/gps_data.geojson" %}
