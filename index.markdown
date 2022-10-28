@@ -34,8 +34,9 @@ If you are interested in some other multi-day hikes that we did, you can find [h
 
 [See more episodes...]({% link podcast.md %})
 
-## Last posts
+## Latest posts
 
 {% include homepage_recent_posts.html %}
+
 <br />
 [See more...]({% link teararoa.md %})
