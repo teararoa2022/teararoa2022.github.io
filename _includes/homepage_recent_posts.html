@@ -11,7 +11,7 @@
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts limit:4 -%}
+      {%- for post in posts limit:3 -%}
         {% if post.tags contains "teararoa" and post.visible == 1 %}
           <li>
             <article class="blog-article">
