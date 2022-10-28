@@ -32,7 +32,12 @@ If you are interested in some other multi-day hikes that we did, you can find [h
 
 </iframe>
 
-<br />
 [See more episodes...]({% link podcast.md %})
 
 <br />
+
+## Last posts
+
+{% include homepage_recent_posts.html %}
+
+[See more...]({% link teararoa.md %})
