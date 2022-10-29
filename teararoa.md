@@ -13,6 +13,6 @@ order: 1
 {% leaflet_geojson "/assets/teararoa/teararoa.geojson" %}
 {% endleaflet_map %}
 
-
+{% include homepage_stats.html %}
 
 <br />
