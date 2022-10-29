@@ -17,13 +17,13 @@ In this map, you can see how far we have been up to now:
 "divId" : "map_size" } %}
 {% leaflet_geojson "/assets/teararoa/teararoa.geojson" %}
 {% endleaflet_map %}
+<br/> 
 
 And here are some interesting or funny statistics 
 about this adventure so far:
-
 {% include homepage_stats.html %}
 
-<br/>
+<br/><br/>
 
-We know let you follow our (many) steps!
+We now let you follow our (many) steps in the articles below!
 
