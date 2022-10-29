@@ -14,6 +14,7 @@ After many years of hiking in our beloved mountains close to home, our dream has
 Starting in Cape Reinga, the northernmost point of the North Island, we are planning to hike all the way down to Bluff, the southernmost point of the South Island.
 <br />
 {% include homepage_map.html %}
+{% include homepage_stats.html %}
 <br />
 You can follow our steps [here]({% link teararoa.md %})...! Enjoy! (Because we will 😜)
 
