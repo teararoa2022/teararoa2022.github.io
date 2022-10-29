@@ -4,6 +4,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import List
 
+import yaml
 import geojson
 from jinja2 import Environment, PackageLoader, select_autoescape
 
