@@ -76,7 +76,7 @@ class StravaPostPaths:
             abs_post_path=POSTS_DIRECTORY / subfolder_name / (file_name_no_suffix + ".md"),
             abs_assets_folder=abs_assets_folder,
             abs_geojson_path=abs_assets_folder / "gps_data.geojson",
-            abs_stats_path=abs_assets_folder / "stats.geojson",
+            abs_stats_path=abs_assets_folder / "stats.yaml",
         )
         if create_paths:
             strava_post_paths.create_paths()
