@@ -16,6 +16,8 @@ Starting in Cape Reinga, the northernmost point of the North Island, we are plan
 {% include homepage_map.html %}
 {% include homepage_stats.html %}
 <br />
+<br />
+
 You can follow our steps [here]({% link teararoa.md %})...! Enjoy! (Because we will 😜)
 
 
