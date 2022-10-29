@@ -15,5 +15,5 @@ order: 1
 
 {% include homepage_stats.html %}
 
-
+<br />
 <br />
