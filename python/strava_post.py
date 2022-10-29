@@ -17,16 +17,45 @@ POSTS_DIRECTORY = BASE_DIR / "_posts"
 env = Environment(loader=PackageLoader("strava_post"), autoescape=select_autoescape())
 
 
+DAY_STATS_DICT = {
+    'Total TA km travelled': 0,
+    'Total km travelled': 0,
+    'TA km hiked': 0,
+    'km hiked': 0,
+    'TA km canoeing': 0,
+    'km canoeing': 0,
+    'TA km hitched': 0,
+    'Hike': 0,
+    'Hitch': 0,
+    'Canoe': 0,
+    'Zero': 0,
+    'Nero': 0,
+    'Full': 0,
+    'End km mark': 0,
+    'Grams of peanut butter': 0,
+    'Grams of Gas': 0,
+    'Rain day': 0,
+    'Pair of shoes Stefano': 0,
+    'Pair of shoes Ondine': 0,
+    'Hot showers': 0,
+    'Bed night': 0,
+    'Tent night': 0,
+    'All fields filled': 0
+}
+
+
 @dataclass
 class StravaPostPaths:
     file_name_no_suffix: str
     subfolder_name: str
     assets_folder: Path
     geojson_path: Path
+    stats_path: Path
 
     abs_post_path: Path
     abs_assets_folder: Path
     abs_geojson_path: Path
+    abs_stats_path: Path
 
     @classmethod
     def from_activity(cls, activity: StravaActivity, create_paths=True):
@@ -42,9 +71,11 @@ class StravaPostPaths:
             subfolder_name=subfolder_name,
             assets_folder=assets_folder,
             geojson_path=assets_folder / "gps_data.geojson",
+            stats_path=assets_folder / "stats.yaml",
             abs_post_path=POSTS_DIRECTORY / subfolder_name / (file_name_no_suffix + ".md"),
             abs_assets_folder=abs_assets_folder,
             abs_geojson_path=abs_assets_folder / "gps_data.geojson",
+            abs_stats_path=abs_assets_folder / "stats.geojson",
         )
         if create_paths:
             strava_post_paths.create_paths()
@@ -162,5 +193,7 @@ class StravaPost:
 
         with open(strava_post_paths.abs_geojson_path, "w") as f:
             geojson.dump(self.activity.gps_data, f)
+        with open(strava_post_paths.abs_stats_path, "w") as f:
+            yaml.dump(DAY_STATS_DICT, f)
         with open(strava_post_paths.abs_post_path, "w") as f:
             f.write(post_content)
