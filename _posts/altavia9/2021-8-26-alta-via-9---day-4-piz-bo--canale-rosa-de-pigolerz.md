@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 13,
+{% leaflet_map {"zoom" : 12,
                   "center": [46.516780499999996, 11.858950499999999],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/altavia9/2021-8-26-alta-via-9---day-4-piz-bo--canale-rosa-de-pigolerz/gps_data.geojson" %}
