@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 13,
+{% leaflet_map {"zoom" : 12,
                   "center": [45.7969505, 6.7390185],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/tmb/2022-8-22-tour-du-mont-blanc---day-2/gps_data.geojson" %}
