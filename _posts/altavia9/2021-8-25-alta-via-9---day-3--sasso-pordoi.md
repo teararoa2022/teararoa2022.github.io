@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 13,
+{% leaflet_map {"zoom" : 12,
                   "center": [46.5109085, 11.787859000000001],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/altavia9/2021-8-25-alta-via-9---day-3--sasso-pordoi/gps_data.geojson" %}
