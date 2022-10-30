@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 13,
+{% leaflet_map {"zoom" : 12,
                   "center": [46.48104, 11.5892],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/altavia9/2021-8-23-alta-via-9---day-1/gps_data.geojson" %}
