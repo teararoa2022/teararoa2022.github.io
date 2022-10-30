@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 13,
+{% leaflet_map {"zoom" : 11,
                   "center": [46.570289, 12.193354],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/altavia9/2021-8-31-alta-via-9---day-8-by-monte-cristallo/gps_data.geojson" %}
