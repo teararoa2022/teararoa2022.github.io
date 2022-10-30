@@ -13,7 +13,7 @@ to our Te Araroa hike in New Zealand!
 Here is how far and where we have been up to now:
 
 {% leaflet_map {"zoom" : 5,
-"center": [-40.8414835, 173.878885000000001],
+"center": [-41.426699, 172.67759],
 "divId" : "map_size" } %}
 {% leaflet_geojson "/assets/teararoa/teararoa.geojson" %}
 {% endleaflet_map %}
