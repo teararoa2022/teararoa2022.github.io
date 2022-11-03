@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-35.2277105, 173.87336349999998],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-2-te-araroa-day-12-puketi-forest-hut---kerikeri/gps_data.geojson" %}
