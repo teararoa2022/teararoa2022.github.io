@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-35.226421, 173.7269185],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-1-te-araroa-day-11-blackridge-campsite---puketi-forest-hut/gps_data.geojson" %}
