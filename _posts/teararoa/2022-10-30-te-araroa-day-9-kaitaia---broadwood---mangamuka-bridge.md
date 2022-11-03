@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 10,
                   "center": [-35.1853125, 173.40247],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-10-30-te-araroa-day-9-kaitaia---broadwood---mangamuka-bridge/gps_data.geojson" %}
