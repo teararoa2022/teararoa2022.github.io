@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa days 6-7: Ahipara - Kaitaia"
+title: "Te Araroa days 6-8: Ahipara - Kaitaia"
 date: 2022-10-27 22:02:15 +0200
 assets_folder: /assets/teararoa/2022-10-27-te-araroa-days-6-7-ahipara---kaitaia
 tags: teararoa hiking
