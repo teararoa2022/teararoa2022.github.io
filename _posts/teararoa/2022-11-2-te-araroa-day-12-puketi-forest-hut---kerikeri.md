@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 12: Puketi forest hut - Kerikeri"
+title: "Te Araroa days 12-13: Puketi forest hut - Kerikeri"
 date: 2022-11-02 19:03:27 +0200
 assets_folder: /assets/teararoa/2022-11-2-te-araroa-day-12-puketi-forest-hut---kerikeri
 tags: teararoa hiking
