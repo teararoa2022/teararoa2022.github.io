@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-35.24468, 174.011744],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-4-te-araroa-day-14-kerikeri---waitangi/gps_data.geojson" %}
