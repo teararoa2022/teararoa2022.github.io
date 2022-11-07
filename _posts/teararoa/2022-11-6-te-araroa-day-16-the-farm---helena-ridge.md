@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-35.404323, 174.3292935],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-6-te-araroa-day-16-the-farm---helena-ridge/gps_data.geojson" %}
