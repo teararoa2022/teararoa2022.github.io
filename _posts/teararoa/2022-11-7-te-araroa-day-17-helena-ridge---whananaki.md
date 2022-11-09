@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-35.494842000000006, 174.391776],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-7-te-araroa-day-17-helena-ridge---whananaki/gps_data.geojson" %}
@@ -21,7 +21,7 @@ visible: 1
 
 
 
-{% include strava_table.html distance="18.72" elevation_gain="108" moving_time="0:56:06" elapsed_time="2:25:31" %}
+{% include strava_table.html distance="10.72" elevation_gain="108" moving_time="0:56:06" elapsed_time="2:25:31" %}
 
 [![](/assets/strava.jpg)](https://www.strava.com/activities/8084300539)
 
