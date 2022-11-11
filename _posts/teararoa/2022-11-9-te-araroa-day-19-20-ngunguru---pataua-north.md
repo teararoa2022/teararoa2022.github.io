@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 19-20: Ngunguru - Pataua North"
+title: "Te Araroa days 19-20: Ngunguru - Pataua North"
 date: 2022-11-09 22:27:56 +0200
 assets_folder: /assets/teararoa/2022-11-9-te-araroa-day-19-20-ngunguru---pataua-north
 tags: teararoa hiking
