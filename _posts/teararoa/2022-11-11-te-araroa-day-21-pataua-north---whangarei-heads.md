@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-35.7799295, 174.54467],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-11-te-araroa-day-21-pataua-north---whangarei-heads/gps_data.geojson" %}
@@ -21,7 +21,7 @@ visible: 1
 
 
 
-{% include strava_table.html distance="30.68" elevation_gain="1215" moving_time="7:26:43" elapsed_time="14:47:10" %}
+{% include strava_table.html distance="30.68" elevation_gain="1115" moving_time="7:26:43" elapsed_time="14:47:10" %}
 
 [![](/assets/strava.jpg)](https://www.strava.com/activities/8104664065)
 
