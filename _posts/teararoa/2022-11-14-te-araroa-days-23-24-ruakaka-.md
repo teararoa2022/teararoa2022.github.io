@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 17,
+{% leaflet_map {"zoom" : 16,
                   "center": [-35.903968, 174.45521300000001],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-14-te-araroa-days-23-24-ruakaka-/gps_data.geojson" %}
