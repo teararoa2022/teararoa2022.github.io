@@ -2,7 +2,7 @@
 layout: strava_post
 title: "Te Araroa day 14: Kerikeri - Waitangi"
 date: 2022-11-04 18:06:10 +0200
-assets_folder: /assets/teararoa/2022-11-4-te-araroa-day-14-kerikeri---waitangi
+assets_folder: /assets/teararoa/2022-11-04-te-araroa-day-14-kerikeri---waitangi
 tags: teararoa hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/mqcZumTHu3ty_P2pfzzsLNLUp8HTJOMSyxCUtuVmMlQ-1024x768.jpg
 comments: true
@@ -13,7 +13,7 @@ visible: 1
 {% leaflet_map {"zoom" : 11,
                   "center": [-35.24468, 174.011744],
                  "divId" : "map_size" } %}
-    {% leaflet_geojson "/assets/teararoa/2022-11-4-te-araroa-day-14-kerikeri---waitangi/gps_data.geojson" %}
+    {% leaflet_geojson "/assets/teararoa/2022-11-04-te-araroa-day-14-kerikeri---waitangi/gps_data.geojson" %}
 
 {% endleaflet_map %}
 
