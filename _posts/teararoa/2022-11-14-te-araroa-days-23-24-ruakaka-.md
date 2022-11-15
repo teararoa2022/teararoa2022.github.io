@@ -44,3 +44,7 @@ visible: 1
 <br />
 
 ![](https://dgtzuqphqg23d.cloudfront.net/j99QpAGVj00K39ulkf3PLSe0Yn2Pi1LAeTH_o9Eg8HE-768x1024.jpg)
+
+<br />
+
+![](/assets/teararoa/2022-11-14-te-araroa-days-23-24-ruakaka-/IMG-20221115-WA0013.jpg)
