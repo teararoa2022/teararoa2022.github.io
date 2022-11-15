@@ -2,7 +2,7 @@
 layout: strava_post
 title: "Te Araroa days 19-20: Ngunguru - Pataua North"
 date: 2022-11-09 22:27:56 +0200
-assets_folder: /assets/teararoa/2022-11-9-te-araroa-day-19-20-ngunguru---pataua-north
+assets_folder: /assets/teararoa/2022-11-09-te-araroa-day-19-20-ngunguru---pataua-north
 tags: teararoa hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/OHp87JxUJqo3VwC1r5RwVul17xRNfPp2R0CI3bbBMJM-1024x767.jpg
 comments: true
@@ -13,7 +13,7 @@ visible: 1
 {% leaflet_map {"zoom" : 12,
                   "center": [-35.669571000000005, 174.49924499999997],
                  "divId" : "map_size" } %}
-    {% leaflet_geojson "/assets/teararoa/2022-11-9-te-araroa-day-19-20-ngunguru---pataua-north/gps_data.geojson" %}
+    {% leaflet_geojson "/assets/teararoa/2022-11-09-te-araroa-day-19-20-ngunguru---pataua-north/gps_data.geojson" %}
 
 {% endleaflet_map %}
 
