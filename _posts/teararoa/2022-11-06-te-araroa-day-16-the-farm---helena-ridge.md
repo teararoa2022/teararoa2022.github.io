@@ -2,7 +2,7 @@
 layout: strava_post
 title: "Te Araroa day 16: The Farm - Helena ridge"
 date: 2022-11-06 18:29:45 +0200
-assets_folder: /assets/teararoa/2022-11-6-te-araroa-day-16-the-farm---helena-ridge
+assets_folder: /assets/teararoa/2022-11-06-te-araroa-day-16-the-farm---helena-ridge
 tags: teararoa hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/nEmfCQGuxSNq3KB3XuBh1Nu4L4-Jp6f1NAiwTWTK1Lo-1024x768.jpg
 comments: true
@@ -13,7 +13,7 @@ visible: 1
 {% leaflet_map {"zoom" : 11,
                   "center": [-35.404323, 174.3292935],
                  "divId" : "map_size" } %}
-    {% leaflet_geojson "/assets/teararoa/2022-11-6-te-araroa-day-16-the-farm---helena-ridge/gps_data.geojson" %}
+    {% leaflet_geojson "/assets/teararoa/2022-11-06-te-araroa-day-16-the-farm---helena-ridge/gps_data.geojson" %}
 
 {% endleaflet_map %}
 
