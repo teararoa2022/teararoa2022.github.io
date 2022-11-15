@@ -2,7 +2,7 @@
 layout: strava_post
 title: "Te Araroa day 17: Helena ridge - Whananaki"
 date: 2022-11-07 18:37:18 +0200
-assets_folder: /assets/teararoa/2022-11-7-te-araroa-day-17-helena-ridge---whananaki
+assets_folder: /assets/teararoa/2022-11-07-te-araroa-day-17-helena-ridge---whananaki
 tags: teararoa hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/1KHc2-HaFE5plRQHsZdE7etW9dQTSCcPMZ19_DamgbY-1024x768.jpg
 comments: true
@@ -13,7 +13,7 @@ visible: 1
 {% leaflet_map {"zoom" : 11,
                   "center": [-35.494842000000006, 174.391776],
                  "divId" : "map_size" } %}
-    {% leaflet_geojson "/assets/teararoa/2022-11-7-te-araroa-day-17-helena-ridge---whananaki/gps_data.geojson" %}
+    {% leaflet_geojson "/assets/teararoa/2022-11-07-te-araroa-day-17-helena-ridge---whananaki/gps_data.geojson" %}
 
 {% endleaflet_map %}
 
