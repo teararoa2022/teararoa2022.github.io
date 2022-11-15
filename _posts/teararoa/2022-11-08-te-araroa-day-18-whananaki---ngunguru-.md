@@ -2,7 +2,7 @@
 layout: strava_post
 title: "Te Araroa day 18: Whananaki - Ngunguru "
 date: 2022-11-08 19:17:21 +0200
-assets_folder: /assets/teararoa/2022-11-8-te-araroa-day-18-whananaki---ngunguru-
+assets_folder: /assets/teararoa/2022-11-08-te-araroa-day-18-whananaki---ngunguru-
 tags: teararoa hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/yqh1QDn-wKUTJtnqrWgDDhZa7ShXRmo0Gg9D4_TIV0M-1024x768.jpg
 comments: true
@@ -13,7 +13,7 @@ visible: 1
 {% leaflet_map {"zoom" : 12,
                   "center": [-35.5719105, 174.47943700000002],
                  "divId" : "map_size" } %}
-    {% leaflet_geojson "/assets/teararoa/2022-11-8-te-araroa-day-18-whananaki---ngunguru-/gps_data.geojson" %}
+    {% leaflet_geojson "/assets/teararoa/2022-11-08-te-araroa-day-18-whananaki---ngunguru-/gps_data.geojson" %}
 
 {% endleaflet_map %}
 
