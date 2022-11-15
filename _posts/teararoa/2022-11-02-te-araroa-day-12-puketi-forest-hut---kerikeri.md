@@ -2,7 +2,7 @@
 layout: strava_post
 title: "Te Araroa days 12-13: Puketi forest hut - Kerikeri"
 date: 2022-11-02 19:03:27 +0200
-assets_folder: /assets/teararoa/2022-11-2-te-araroa-day-12-puketi-forest-hut---kerikeri
+assets_folder: /assets/teararoa/2022-11-02-te-araroa-day-12-puketi-forest-hut---kerikeri
 tags: teararoa hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/sfm8a0qMAXeLUQ90DIg6b3-dV3RFYOBh3Pf30ICmZj0-1024x768.jpg
 comments: true
@@ -13,7 +13,7 @@ visible: 1
 {% leaflet_map {"zoom" : 11,
                   "center": [-35.2277105, 173.87336349999998],
                  "divId" : "map_size" } %}
-    {% leaflet_geojson "/assets/teararoa/2022-11-2-te-araroa-day-12-puketi-forest-hut---kerikeri/gps_data.geojson" %}
+    {% leaflet_geojson "/assets/teararoa/2022-11-02-te-araroa-day-12-puketi-forest-hut---kerikeri/gps_data.geojson" %}
 
 {% endleaflet_map %}
 
