@@ -2,7 +2,7 @@
 layout: strava_post
 title: "Te Araroa day 15: Waitangi - The Farm"
 date: 2022-11-05 18:17:43 +0200
-assets_folder: /assets/teararoa/2022-11-5-te-araroa-day-15-waitangi---the-farm
+assets_folder: /assets/teararoa/2022-11-05-te-araroa-day-15-waitangi---the-farm
 tags: teararoa hiking
 thumbnail: https://dgtzuqphqg23d.cloudfront.net/KWC3pscSE176jDjEorOP1eDi49wAmI1jIqh96I8vuVI-1024x768.jpg
 comments: true
@@ -13,7 +13,7 @@ visible: 1
 {% leaflet_map {"zoom" : 11,
                   "center": [-35.304221999999996, 174.1886655],
                  "divId" : "map_size" } %}
-    {% leaflet_geojson "/assets/teararoa/2022-11-5-te-araroa-day-15-waitangi---the-farm/gps_data.geojson" %}
+    {% leaflet_geojson "/assets/teararoa/2022-11-05-te-araroa-day-15-waitangi---the-farm/gps_data.geojson" %}
 
 {% endleaflet_map %}
 
