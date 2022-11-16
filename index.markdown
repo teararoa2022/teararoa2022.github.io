@@ -20,7 +20,7 @@ You can follow our steps [here]({% link teararoa.md %})...! Enjoy! (Because we w
 
 If you are interested in some other multi-day hikes that we did, you can find [here]({% link altavia9.md %}) some posts about the Alta Via 9 that we hiked in summer 2021 in the Dolomites, Italy, and you can find [here]({% link tmb.md %}) some posts about the partial Tour du Mont Blanc hike that we did in summer 2022.
 
-## Last Podcast
+## Last Podcast (in French)
 
 <iframe style="border-radius:12px"
           src="https://open.spotify.com/embed/show/1dXhQ0ucwq7zykrM9r5Fbb?utm_source=generator&theme=1"
