@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa days 23-24: Ruakaka "
+title: "Te Araroa days 23-25: Ruakaka "
 date: 2022-11-14 20:26:10 +0200
 assets_folder: /assets/teararoa/2022-11-14-te-araroa-days-23-24-ruakaka-
 tags: teararoa hiking
