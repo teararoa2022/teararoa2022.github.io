@@ -4,7 +4,7 @@ title: "Te Araroa day 30: Pakiri - The Dome"
 date: 2022-11-20 19:15:56 +0200
 assets_folder: /assets/teararoa/2022-11-20-te-araroa-day-30-pakiri---the-dome
 tags: teararoa hiking
-thumbnail: https://dgtzuqphqg23d.cloudfront.net/Qrqoo1YqP8jmcXz6X5gVAgb2p6J99wov3hy_DM8QfBw-1024x768.jpg
+thumbnail: https://dgtzuqphqg23d.cloudfront.net/S-4iIz2Hci5KEn5hxWMgeFD7muMaxv0kOPugxSuyUBQ-1024x768.jpg
 comments: true
 visible: 1
 ---
