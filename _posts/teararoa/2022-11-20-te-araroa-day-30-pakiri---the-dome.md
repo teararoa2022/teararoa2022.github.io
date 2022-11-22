@@ -124,3 +124,11 @@ visible: 1
 <br />
 
 ![](https://dgtzuqphqg23d.cloudfront.net/u_LqnAushsZWUCHT9g0LhZzb55ZVlpSurJ11SUCLnDY-1024x768.jpg)
+
+<br />
+
+![](/assets/teararoa/2022-11-20-te-araroa-day-30-pakiri---the-dome/IMG-20221122-WA0004.jpg)
+
+<br />
+
+![](/assets/teararoa/2022-11-20-te-araroa-day-30-pakiri---the-dome/IMG-20221122-WA0008.jpg)
