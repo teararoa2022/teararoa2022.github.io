@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-36.206193999999996, 174.65732450000002],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-19-te-araroa-day-29-mangawhai---pakiri/gps_data.geojson" %}
