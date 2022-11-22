@@ -22,6 +22,7 @@ And here are some statistics
 about this adventure so far:
 {% include homepage_stats.html %}
 
+
 <br/><br/>
 
 Finally, you can follow our (many) steps in the articles below!
