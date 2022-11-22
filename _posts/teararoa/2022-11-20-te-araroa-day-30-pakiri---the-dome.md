@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-36.323693, 174.672883],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-20-te-araroa-day-30-pakiri---the-dome/gps_data.geojson" %}
