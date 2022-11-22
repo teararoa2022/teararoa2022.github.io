@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 30: Pakiri - The Dome"
+title: "Te Araroa days 30-31: Pakiri - The Dome"
 date: 2022-11-20 19:15:56 +0200
 assets_folder: /assets/teararoa/2022-11-20-te-araroa-day-30-pakiri---the-dome
 tags: teararoa hiking
