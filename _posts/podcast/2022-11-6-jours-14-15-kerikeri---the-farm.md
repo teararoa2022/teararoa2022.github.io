@@ -8,8 +8,6 @@ comments: true
 visible: 1
 ---
 
-Jours 14-15: Kerikeri - The Farm
-
 
 <iframe style="border-radius:12px"
 src="https://open.spotify.com/embed/episode/5QM3wEv4FvwZbD1O5amGAW?utm_source=generator"

@@ -8,7 +8,6 @@ comments: true
 visible: 1
 ---
 
-Jours 16-18: The Farm - Ngunguru
 
 
 <iframe style="border-radius:12px"

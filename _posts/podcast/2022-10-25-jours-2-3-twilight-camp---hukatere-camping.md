@@ -8,7 +8,6 @@ comments: true
 visible: 1
 ---
 
-Jours 2-3: Twilight camp - Hukatere camping
 
 
 <iframe style="border-radius:12px"

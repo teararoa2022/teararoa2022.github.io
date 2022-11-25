@@ -8,7 +8,6 @@ comments: true
 visible: 1
 ---
 
-Jours 19-23: Ngunguru - Ruakaka
 
 
 <iframe style="border-radius:12px"

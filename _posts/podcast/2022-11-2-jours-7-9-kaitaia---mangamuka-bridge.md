@@ -8,7 +8,6 @@ comments: true
 visible: 1
 ---
 
-Jours 7-9: Kaitaia - Mangamuka bridge
 
 
 <iframe style="border-radius:12px"

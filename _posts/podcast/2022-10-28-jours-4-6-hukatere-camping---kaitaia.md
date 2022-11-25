@@ -8,7 +8,6 @@ comments: true
 visible: 1
 ---
 
-Jours 4-6: Hukatere camping - Kaitaia
 
 
 <iframe style="border-radius:12px"

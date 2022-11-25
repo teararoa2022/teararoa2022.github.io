@@ -8,7 +8,6 @@ comments: true
 visible: 1
 ---
 
-Jours 10-13: Mangamuka bridge - Kerikeri
 
 
 <iframe style="border-radius:12px"

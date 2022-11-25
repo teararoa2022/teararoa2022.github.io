@@ -114,7 +114,6 @@ class SpotifyPost:
             "tags": "podcast",
             "thumbnail": self.episode.photo_url if self.episode.photo_url else "/assets/thumbnail.jpg",
             "visible": "1",
-            "description": self.episode.description,
             "embed": self.episode.get_embed_code(),
         }
         return template.render(**template_parameters)

@@ -8,7 +8,6 @@ comments: true
 visible: 1
 ---
 
-Jour 1: Cape Reinga - Twilight campsite
 
 
 <iframe style="border-radius:12px"

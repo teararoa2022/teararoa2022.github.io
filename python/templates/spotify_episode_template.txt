@@ -8,6 +8,4 @@ comments: true
 visible: {{ visible }}
 ---
 
-{{ description }}
-
 {{ embed }}
