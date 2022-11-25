@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-36.438342500000005, 174.6235585],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-22-te-araroa-day-32-the-dome---puhoi/gps_data.geojson" %}
