@@ -4,8 +4,8 @@ from datetime import datetime
 from pathlib import Path
 from typing import List
 
-import yaml
 import geojson
+import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
 
 from python.strava import StravaActivity
@@ -19,29 +19,29 @@ env = Environment(loader=PackageLoader("strava_post"), autoescape=select_autoesc
 
 
 DAY_STATS_DICT = {
-    'Total TA km travelled': 0,
-    'Total km travelled': 0,
-    'TA km hiked': 0,
-    'km hiked': 0,
-    'TA km canoeing': 0,
-    'km canoeing': 0,
-    'TA km hitched': 0,
-    'Hike': 0,
-    'Hitch': 0,
-    'Canoe': 0,
-    'Zero': 0,
-    'Nero': 0,
-    'Full': 0,
-    'End km mark': 0,
-    'Grams of peanut butter': 0,
-    'Grams of Gas': 0,
-    'Rain day': 0,
-    'Pair of shoes Stefano': 0,
-    'Pair of shoes Ondine': 0,
-    'Hot showers': 0,
-    'Bed night': 0,
-    'Tent night': 0,
-    'All fields filled': 0
+    "Total TA km travelled": 0,
+    "Total km travelled": 0,
+    "TA km hiked": 0,
+    "km hiked": 0,
+    "TA km canoeing": 0,
+    "km canoeing": 0,
+    "TA km hitched": 0,
+    "Hike": 0,
+    "Hitch": 0,
+    "Canoe": 0,
+    "Zero": 0,
+    "Nero": 0,
+    "Full": 0,
+    "End km mark": 0,
+    "Grams of peanut butter": 0,
+    "Grams of Gas": 0,
+    "Rain day": 0,
+    "Pair of shoes Stefano": 0,
+    "Pair of shoes Ondine": 0,
+    "Hot showers": 0,
+    "Bed night": 0,
+    "Tent night": 0,
+    "All fields filled": 0,
 }
 
 
@@ -62,7 +62,8 @@ class StravaPostPaths:
     def from_activity(cls, activity: StravaActivity, create_paths=True):
         start_date = activity.start_date
         file_name_no_suffix = cls.remove_symbols(
-            f"{start_date.year}-{start_date.month}-{start_date.day}-" f'{activity.title.lower().replace(" ", "-")}'
+            f"{start_date.year}-{start_date.month:02}-{start_date.day:02}-"
+            f'{activity.title.lower().replace(" ", "-")}'
         )
         subfolder_name = cls.remove_symbols(activity.tags[0]) if len(activity.tags) else "general"
         assets_folder = Path("/assets/") / subfolder_name / file_name_no_suffix
