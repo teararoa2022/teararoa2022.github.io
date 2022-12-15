@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 14,
                   "center": [-38.8973265, 175.255021],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-03-te-araroa-day-42-te-kuiti---taumarunui-canoe-hire/gps_data.geojson" %}
