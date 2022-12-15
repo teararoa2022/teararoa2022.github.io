@@ -4,7 +4,7 @@ title: "Te Araroa day 42: Te Kuiti - Taumarunui canoe hire"
 date: 2022-12-03 04:10:10 +0200
 assets_folder: /assets/teararoa/2022-12-03-te-araroa-day-42-te-kuiti---taumarunui-canoe-hire
 tags: teararoa hiking
-thumbnail: https://dgtzuqphqg23d.cloudfront.net/ryBTKs1EoYWtraQyUBYby9ttWtRwLKQaRaNkbZEGduo-768x1024.jpg
+thumbnail: https://dgtzuqphqg23d.cloudfront.net/0rbYPkvM8_bavgEYutjne54ntpV4-dNNCCPnZqKZvX8-1024x768.jpg
 comments: true
 visible: 1
 ---
