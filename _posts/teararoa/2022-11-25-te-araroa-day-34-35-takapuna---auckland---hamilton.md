@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 34-35: Takapuna - Auckland -> Hamilton"
+title: "Te Araroa days 34-35: Takapuna - Auckland -> Hamilton"
 date: 2022-11-25 22:48:03 +0200
 assets_folder: /assets/teararoa/2022-11-25-te-araroa-day-34-35-takapuna---auckland---hamilton
 tags: teararoa hiking
@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 13,
                   "center": [-36.816588499999995, 174.79035499999998],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-25-te-araroa-day-34-35-takapuna---auckland---hamilton/gps_data.geojson" %}
