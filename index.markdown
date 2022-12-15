@@ -11,7 +11,7 @@ Welcome to Ondine and Stefano's hiking website!
 
 After many years of hiking in our beloved mountains close to home, our dream has finally come true: we are tempting a thru-hike of Te Araroa, a 3000km long hike crossing the whole country of New Zealand!
 
-Starting in Cape Reinga, the northernmost point of the North Island, we are planning to hike all the way down to Bluff, the southernmost point of the South Island.
+Starting in Cape Reinga, the northernmost point of the North Island, we are planning to hike (almost - we will not hike on the roads -) all the way down to Bluff, the southernmost point of the South Island.
 <br />
 {% include homepage_map.html %}
 <br />
