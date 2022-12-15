@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-38.1494705, 175.04673250000002],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-29-te-araroa-days-39-40-bartlams-bush---waitomo/gps_data.geojson" %}
