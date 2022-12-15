@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 17,
                   "center": [-37.858329499999996, 175.68102399999998],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-11-27-te-araroa-day-36-hobbiton/gps_data.geojson" %}
