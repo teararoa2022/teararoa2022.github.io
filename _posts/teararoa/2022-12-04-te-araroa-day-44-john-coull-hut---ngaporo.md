@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-39.3259475, 174.96057000000002],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-04-te-araroa-day-44-john-coull-hut---ngaporo/gps_data.geojson" %}
