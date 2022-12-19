@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-39.544005999999996, 175.09376650000002],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-05-te-araroa-day-45-ngaporo---the-flying-fox/gps_data.geojson" %}
