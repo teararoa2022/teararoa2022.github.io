@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-39.8657265, 175.0847425],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-07-te-araroa-day-47-hiponga-park---whanganui-/gps_data.geojson" %}
