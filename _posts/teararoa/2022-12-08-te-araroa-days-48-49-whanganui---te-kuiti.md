@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 15,
                   "center": [-39.9290015, 175.055117],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-08-te-araroa-days-48-49-whanganui---te-kuiti/gps_data.geojson" %}
