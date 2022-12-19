@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-39.745000000000005, 175.144877],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-06-te-araroa-day-46-the-flying-fox---hipango-park/gps_data.geojson" %}
