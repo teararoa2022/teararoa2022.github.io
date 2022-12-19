@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-39.167465500000006, 174.99487349999998],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-03-te-araroa-day-43-whakahoro---john-coull-hut/gps_data.geojson" %}
