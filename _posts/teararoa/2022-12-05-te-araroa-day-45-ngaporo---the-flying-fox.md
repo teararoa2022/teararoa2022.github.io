@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 45: Ngaporo - The flying fox"
+title: "Te Araroa day 45: Ngaporo - The flying fox (Whanganui river)"
 date: 2022-12-05 20:01:16 +0200
 assets_folder: /assets/teararoa/2022-12-05-te-araroa-day-45-ngaporo---the-flying-fox
 tags: teararoa hiking
