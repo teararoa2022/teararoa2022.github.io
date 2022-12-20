@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 2: Twilight campsite - Maunganui Bluff campground"
+title: "Te Araroa day 2: Twilight campsite - Maunganui Bluff campground (Ninety mile beach)"
 date: 2022-10-23 19:39:22 +0200
 assets_folder: /assets/teararoa/2022-10-23-te-araroa-day-2-twilight-campsite---maunganui-bluff-campground
 tags: teararoa hiking
