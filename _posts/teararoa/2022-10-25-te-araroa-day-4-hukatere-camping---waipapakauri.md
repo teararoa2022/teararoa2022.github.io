@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 4: Hukatere camping - Waipapakauri"
+title: "Te Araroa day 4: Hukatere camping - Waipapakauri (Ninety mile beach)"
 date: 2022-10-25 20:12:20 +0200
 assets_folder: /assets/teararoa/2022-10-25-te-araroa-day-4-hukatere-camping---waipapakauri
 tags: teararoa hiking
