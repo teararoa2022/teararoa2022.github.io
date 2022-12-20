@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 47: Hiponga park - Whanganui "
+title: "Te Araroa day 47: Hiponga park - Whanganui (Whanganui river)"
 date: 2022-12-07 23:46:19 +0200
 assets_folder: /assets/teararoa/2022-12-07-te-araroa-day-47-hiponga-park---whanganui-
 tags: teararoa hiking
