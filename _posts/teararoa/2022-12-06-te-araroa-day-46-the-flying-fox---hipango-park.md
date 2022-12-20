@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 46: The flying fox - Hipango park"
+title: "Te Araroa day 46: The flying fox - Hipango park (Whanganui river)"
 date: 2022-12-06 21:00:07 +0200
 assets_folder: /assets/teararoa/2022-12-06-te-araroa-day-46-the-flying-fox---hipango-park
 tags: teararoa hiking
