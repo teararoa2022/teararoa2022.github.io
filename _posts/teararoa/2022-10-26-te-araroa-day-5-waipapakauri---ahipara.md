@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 5: Waipapakauri - Ahipara"
+title: "Te Araroa day 5: Waipapakauri - Ahipara (Ninety mile beach)"
 date: 2022-10-26 21:03:05 +0200
 assets_folder: /assets/teararoa/2022-10-26-te-araroa-day-5-waipapakauri---ahipara
 tags: teararoa hiking
