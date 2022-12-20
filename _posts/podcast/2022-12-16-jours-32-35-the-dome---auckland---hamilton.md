@@ -1,7 +1,7 @@
 ---
 layout: spotify_post
 title: "Jours 32-35: The Dome - Auckland -> Hamilton"
-date: 2022-12-16 00:00:00 +0200
+date: 2022-11-26 00:00:00 +0200
 tags: podcast
 thumbnail: https://i.scdn.co/image/ab6765630000ba8ad1a453f4ab191eb667ab6236
 comments: true
