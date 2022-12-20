@@ -1,6 +1,6 @@
 ---
 layout: spotify_post
-title: "Jours 2-3: Twilight camp - Hukatere camping"
+title: "Jours 2-3: Twilight camp - Hukatere camping (Ninety mile beach)"
 date: 2022-10-25 00:00:00 +0200
 tags: podcast
 thumbnail: https://i.scdn.co/image/ab6765630000ba8ad1a453f4ab191eb667ab6236
