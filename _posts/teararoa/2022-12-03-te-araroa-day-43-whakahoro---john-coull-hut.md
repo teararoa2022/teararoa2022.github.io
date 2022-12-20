@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 43: Whakahoro - John Coull hut"
+title: "Te Araroa day 43: Whakahoro - John Coull hut (Whanganui river)"
 date: 2022-12-03 21:53:47 +0200
 assets_folder: /assets/teararoa/2022-12-03-te-araroa-day-43-whakahoro---john-coull-hut
 tags: teararoa hiking
