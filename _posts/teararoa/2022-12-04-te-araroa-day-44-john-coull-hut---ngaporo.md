@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 44: John Coull hut - Ngaporo"
+title: "Te Araroa day 44: John Coull hut - Ngaporo (Whanganui river)"
 date: 2022-12-04 20:01:16 +0200
 assets_folder: /assets/teararoa/2022-12-04-te-araroa-day-44-john-coull-hut---ngaporo
 tags: teararoa hiking
