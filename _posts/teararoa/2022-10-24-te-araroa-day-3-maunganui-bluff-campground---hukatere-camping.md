@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 3: Maunganui Bluff campground - Hukatere camping"
+title: "Te Araroa day 3: Maunganui Bluff campground - Hukatere camping (Ninety mile beach)"
 date: 2022-10-24 20:04:33 +0200
 assets_folder: /assets/teararoa/2022-10-24-te-araroa-day-3-maunganui-bluff-campground---hukatere-camping
 tags: teararoa hiking
