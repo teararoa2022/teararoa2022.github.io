@@ -1,6 +1,6 @@
 ---
 layout: spotify_post
-title: "Jours 4-6: Hukatere camping - Kaitaia"
+title: "Jours 4-6: Hukatere camping - Kaitaia (Ninety mile beach)"
 date: 2022-10-28 00:00:00 +0200
 tags: podcast
 thumbnail: https://i.scdn.co/image/ab6765630000ba8ad1a453f4ab191eb667ab6236
