@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 10,
                   "center": [-38.9437025, 175.39863050000002],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-13-te-araroa-days-53-54-camp-10---ongarue-timber-trail---national-park/gps_data.geojson" %}
