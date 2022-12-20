@@ -1,7 +1,7 @@
 ---
 layout: spotify_post
 title: "Jours 36-41: Hamilton - Te Kuiti"
-date: 2022-12-17 00:00:00 +0200
+date: 2022-12-02 00:00:00 +0200
 tags: podcast
 thumbnail: https://i.scdn.co/image/ab6765630000ba8ad1a453f4ab191eb667ab6236
 comments: true
