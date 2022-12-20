@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 10,
                   "center": [-38.457496, 175.40074249999998],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-10-te-araroa-day-50-te-kuiti---bog-inn-hut-timber-trail/gps_data.geojson" %}
