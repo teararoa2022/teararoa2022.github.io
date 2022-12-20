@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-38.6074755, 175.560013],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-11-te-araroa-day-51-bog-inn-hut---piropiro-timber-trail/gps_data.geojson" %}
