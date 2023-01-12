@@ -1,7 +1,7 @@
 ---
 layout: spotify_post
 title: "Jours 49-53: Te Kuiti - Taumarunui (Timber trail)"
-date: 2022-12-24 00:00:00 +0200
+date: 2022-12-15 00:00:00 +0200
 tags: podcast
 thumbnail: https://i.scdn.co/image/ab6765630000ba8ad1a453f4ab191eb667ab6236
 comments: true
