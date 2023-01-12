@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-39.185503999999995, 175.613933],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-17-te-araroa-day-57-oturere-hut---whakapapa-tongariro-northern-crossing/gps_data.geojson" %}
