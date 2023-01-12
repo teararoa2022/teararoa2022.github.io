@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-40.437715499999996, 175.6225345],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-21-te-araroa-day-61-palmerston-north---moturimu-whare-campsite/gps_data.geojson" %}
