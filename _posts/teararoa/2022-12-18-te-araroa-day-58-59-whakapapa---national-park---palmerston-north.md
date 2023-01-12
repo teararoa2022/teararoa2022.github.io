@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-39.199813, 175.467104],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-18-te-araroa-day-58-59-whakapapa---national-park---palmerston-north/gps_data.geojson" %}
