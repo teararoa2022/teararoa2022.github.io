@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 13,
                   "center": [-40.366991999999996, 175.62773800000002],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-20-te-araroa-day-60-palmerston-north/gps_data.geojson" %}
