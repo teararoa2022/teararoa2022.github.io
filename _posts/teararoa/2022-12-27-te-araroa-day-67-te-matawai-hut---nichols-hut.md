@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 67: Te Matawai hut - Nichols hut"
+title: "Te Araroa day 67: Te Matawai hut - Nichols hut (Tararua ranges)"
 date: 2022-12-27 19:10:37 +0200
 assets_folder: /assets/teararoa/2022-12-27-te-araroa-day-67-te-matawai-hut---nichols-hut
 tags: teararoa hiking
