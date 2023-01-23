@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 68: Nichols hut - Waitewaewae hut"
+title: "Te Araroa day 68: Nichols hut - Waitewaewae hut (Tararua ranges)"
 date: 2022-12-28 19:19:24 +0200
 assets_folder: /assets/teararoa/2022-12-28-te-araroa-day-68-nichols-hut---waitewaewae-hut
 tags: teararoa hiking
