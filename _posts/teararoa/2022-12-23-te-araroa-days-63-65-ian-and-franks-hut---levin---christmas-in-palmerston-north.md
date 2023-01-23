@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-40.617213, 175.4218625],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2022-12-23-te-araroa-days-63-65-ian-and-franks-hut---levin---christmas-in-palmerston-north/gps_data.geojson" %}
