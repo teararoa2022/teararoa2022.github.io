@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-41.0593395, 174.8915775],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-01-02-te-araroa-day-73-paekakariki---eldson-escarpment-track/gps_data.geojson" %}
