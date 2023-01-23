@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-41.214113499999996, 174.7940285],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-01-03-te-araroa-days-74-76-eldson---wellington/gps_data.geojson" %}
