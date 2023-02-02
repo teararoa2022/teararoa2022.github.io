@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 10,
                   "center": [-41.244097499999995, 173.9162495],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-01-10-te-araroa-days-81-82-black-rock-campsite---havelock-queen-charlotte-track/gps_data.geojson" %}
