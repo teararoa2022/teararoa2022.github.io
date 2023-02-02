@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 10,
                   "center": [-41.1921315, 174.139795],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-01-08-te-araroa-day-79-picton---motuara-island---ship-cove---madsens-camp-queen-charlotte-track/gps_data.geojson" %}
