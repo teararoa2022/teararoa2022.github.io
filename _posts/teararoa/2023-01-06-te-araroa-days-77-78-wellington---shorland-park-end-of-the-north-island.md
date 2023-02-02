@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa days 77-78: Wellington - Shorland park (End of the North Island)!!"
+title: "Te Araroa days 77-78: Wellington - Shorland park (End of the North Island!) -> Picton"
 date: 2023-01-06 21:40:13 +0200
 assets_folder: /assets/teararoa/2023-01-06-te-araroa-days-77-78-wellington---shorland-park-end-of-the-north-island
 tags: teararoa hiking
