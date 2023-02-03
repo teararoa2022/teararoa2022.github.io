@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-41.727784, 172.9222015],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-01-21-te-araroa-days-92-94-porters-hut---saint-arnaud-richmond-ranges/gps_data.geojson" %}
