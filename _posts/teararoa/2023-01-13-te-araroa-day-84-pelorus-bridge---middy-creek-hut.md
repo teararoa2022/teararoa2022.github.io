@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-41.340926499999995, 173.482496],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-01-13-te-araroa-day-84-pelorus-bridge---middy-creek-hut/gps_data.geojson" %}
