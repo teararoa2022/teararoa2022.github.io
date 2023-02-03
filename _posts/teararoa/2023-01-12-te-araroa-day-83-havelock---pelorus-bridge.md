@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 10,
                   "center": [-41.284138999999996, 173.6957315],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-01-12-te-araroa-day-83-havelock---pelorus-bridge/gps_data.geojson" %}
