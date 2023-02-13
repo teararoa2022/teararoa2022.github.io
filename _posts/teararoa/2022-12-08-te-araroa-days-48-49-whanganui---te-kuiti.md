@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa days 48-49: Whanganui - Te Kuiti"
+title: "Te Araroa days 48-49: Whanganui -> Te Kuiti"
 date: 2022-12-08 22:05:01 +0200
 assets_folder: /assets/teararoa/2022-12-08-te-araroa-days-48-49-whanganui---te-kuiti
 tags: teararoa hiking
