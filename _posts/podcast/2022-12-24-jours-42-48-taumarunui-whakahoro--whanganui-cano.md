@@ -1,6 +1,6 @@
 ---
 layout: spotify_post
-title: "Jours 42-48: Taumarunui, Whakahoro- Whanganui (Canoë)"
+title: "Jours 42-48: Taumarunui, Whakahoro - Whanganui (Canoë)"
 date: 2022-12-09 00:00:00 +0200
 tags: podcast
 thumbnail: https://i.scdn.co/image/ab6765630000ba8ad1a453f4ab191eb667ab6236
