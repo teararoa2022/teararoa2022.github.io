@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-42.436833500000006, 172.4566335],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-01-30-te-araroa-days-101-104-anne-hut---boyle-village---hanmer-springs-/gps_data.geojson" %}
