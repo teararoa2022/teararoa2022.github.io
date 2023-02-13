@@ -1,6 +1,6 @@
 ---
 layout: strava_post
-title: "Te Araroa day 42: Te Kuiti - Taumarunui canoe hire"
+title: "Te Araroa day 42: Te Kuiti -> Taumarunui canoe hire"
 date: 2022-12-02 04:10:10 +0200
 assets_folder: /assets/teararoa/2022-12-03-te-araroa-day-42-te-kuiti---taumarunui-canoe-hire
 tags: teararoa hiking
