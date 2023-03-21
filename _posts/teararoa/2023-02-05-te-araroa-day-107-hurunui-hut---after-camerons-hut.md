@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-42.702881, 172.021184],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-05-te-araroa-day-107-hurunui-hut---after-camerons-hut/gps_data.geojson" %}
