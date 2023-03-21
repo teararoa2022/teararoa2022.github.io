@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 14,
                   "center": [-42.937795, 171.548806],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-09-te-araroa-day-111-avalanche-peak/gps_data.geojson" %}
