@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-42.7315875, 171.8641735],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-06-te-araroa-day-108-after-camerons-hut---by-the-taramakau/gps_data.geojson" %}
