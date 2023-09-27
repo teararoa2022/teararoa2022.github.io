@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 13,
                   "center": [47.6796415, 15.717832999999999],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/austria/2023-09-17-at-heukuppe-/gps_data.geojson" %}
