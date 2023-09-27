@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-44.316827, 169.7818815],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-26-te-araroa-day-128-lake-ohau---before-the-ahuriri-river/gps_data.geojson" %}
