@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-43.035261, 171.6038785],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-10-te-araroa-day-112-arthurs-pass---hamilton-hut/gps_data.geojson" %}
