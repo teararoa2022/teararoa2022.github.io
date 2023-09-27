@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 14,
                   "center": [-43.4911265, 170.0014205],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-15-te-araroa-day-117-fox-glacier/gps_data.geojson" %}
