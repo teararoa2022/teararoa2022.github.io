@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 14,
                   "center": [-43.330051499999996, 171.37736999999998],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-12-te-araroa-day-114-up-from-rakaia-and-back-to-methven/gps_data.geojson" %}
