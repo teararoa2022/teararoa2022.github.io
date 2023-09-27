@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [47.8620305, 16.811649],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/austria/2023-06-18-at-ride-am-neusiedler-see-/gps_data.geojson" %}
