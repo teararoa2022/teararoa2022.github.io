@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 9,
                   "center": [-44.035540499999996, 170.369696],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-25-te-araroa-day-127-after-camp-stream-hut---lake-tekapo---twizel/gps_data.geojson" %}
