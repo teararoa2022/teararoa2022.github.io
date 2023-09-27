@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-43.711024, 170.846464],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-22-te-araroa-days-124-125-geraldine-rangitata---royal-hut/gps_data.geojson" %}
