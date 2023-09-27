@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 14,
                   "center": [47.059171500000005, 9.7513915],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/austria/2023-06-10-at-hike-hangout-at-the-border---part-1-/gps_data.geojson" %}
