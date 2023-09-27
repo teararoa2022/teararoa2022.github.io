@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-43.477485, 171.307328],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-19-te-araroa-day-121-comyns-hut---manuka-hut/gps_data.geojson" %}
