@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 9,
                   "center": [48.1751405, 16.7372405],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/austria/2023-07-30-at-vienna----bratislava-/gps_data.geojson" %}
