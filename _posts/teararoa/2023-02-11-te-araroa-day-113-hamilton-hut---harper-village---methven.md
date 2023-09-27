@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-43.1751985, 171.5436675],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-11-te-araroa-day-113-hamilton-hut---harper-village---methven/gps_data.geojson" %}
