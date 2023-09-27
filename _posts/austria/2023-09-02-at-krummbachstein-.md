@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 13,
                   "center": [47.719744000000006, 15.845252],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/austria/2023-09-02-at-krummbachstein-/gps_data.geojson" %}
