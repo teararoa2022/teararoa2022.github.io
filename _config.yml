@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Te Araroa 2022
+title: Ondine & Stefano
 author: Ondine & Stefano
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -38,9 +38,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-leaflet
+  - jekyll-multiple-languages-plugin
 
 exclude:
   - python/
+
+languages: ["en", "fr", "it"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.

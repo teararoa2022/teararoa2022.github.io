@@ -1,0 +1,114 @@
+---
+layout: default
+---
+
+<div class="marriage-page">
+    <div class="title-section">
+        <img src="/assets/marriage_top.png" alt="Description of the image" id="title-image-top">
+        <h1>{{ page.title_long }}</h1>
+        <p>24th of August 2024</p>
+<!--        <div class="overlay-text">-->
+<!--            <h1>{{ page.title_long }}</h1>-->
+<!--            <p>24th of August 2024</p>-->
+<!--        </div>-->
+
+    </div>
+
+    <div class="content-section">
+        {% include language_switcher.html %}
+        {{ content }}
+    </div>
+</div>
+
+<style>
+    .marriage-page {
+        font-family: 'Arial', sans-serif;
+        max-width: 800px;
+        margin: 2em auto;
+        text-align: center; /* Center align the content */
+    }
+
+    .title-section h1 {
+        font-size: 3em;
+        color: #6B4226;
+        margin-bottom: 15px;
+        margin-top: 20px;
+    }
+
+    .title-section p {
+        font-size: 1.3em;
+        font-style: italic;
+        color: #A68D60;
+        margin-bottom: 30px;
+    }
+
+    .content-section {
+        margin-top: 30px;
+        font-size: 1.2em;
+        color: #333;
+        line-height: 1.6;
+        text-align: justify; /* Making the content alignment as justify to evenly distribute the lines */
+    }
+
+    .content-section a {
+        text-decoration: none;
+        color: #1a4dc0;
+        transition: color 0.3s;
+    }
+
+    .content-section a:hover {
+        color: #A68D60;
+    }
+
+    .content-section h2, .content-section h3, .content-section h4 {
+        color: #6B4226;
+        margin-top: 1.5em;
+        margin-bottom: 1em;
+    }
+
+    .content-section p {
+        margin-bottom: 1.2em;
+    }
+
+    .content-section ul, .content-section ol {
+        margin: 1em 0;
+        padding-left: 1em;
+    }
+
+    .content-section li {
+        margin-bottom: 0.5em;
+    }
+
+
+    .language-switcher a {
+        text-decoration: none;
+        color: #6B4226;
+        margin: 0 10px;
+        font-weight: 500;
+        transition: color 0.3s;
+    }
+
+    .language-switcher a:hover {
+        color: #A68D60;
+    }
+
+    .title-section {
+        position: relative; /* This sets the reference for the absolute positioning of the overlay-text */
+    }
+
+    #title-image {
+        width: 100%;
+        height: auto;
+    }
+
+    .overlay-text {
+        position: absolute;
+        top: 10%;
+        left: 50%;
+        transform: translate(-50%, -50%); /* This centers the overlay-text vertically and horizontally */
+        color: white; /* Setting text color to white for better visibility on images */
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* This gives a shadow to the text to make it more readable */
+    }
+
+
+</style>
