@@ -38,7 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-leaflet
-  - jekyll-multiple-languages-plugin
+#  - jekyll-multiple-languages-plugin
 
 exclude:
   - python/

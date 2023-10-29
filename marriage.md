@@ -6,5 +6,3 @@ tag: marriage
 permalink: /marriage
 order: 6
 ---
-
-{% translate_file marriage.md %}
