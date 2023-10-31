@@ -1,3 +1,10 @@
+---
+layout: marriage_theme
+title: Marriage
+title_long: Ondine & Stefano
+permalink: /marriage-it
+---
+
 Dopo tante avventure insieme vorremmo festeggiare con voi l'inizio di quella più importante!
 Tenetevi liberi, e se potete [confermateci la partecipazione](#conferma) qui sotto, così
 da potervi accogliere al meglio.
