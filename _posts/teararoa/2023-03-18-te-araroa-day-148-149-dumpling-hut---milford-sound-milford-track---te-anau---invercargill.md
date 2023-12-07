@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-44.718441999999996, 167.84711049999999],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-18-te-araroa-day-148-149-dumpling-hut---milford-sound-milford-track---te-anau---invercargill/gps_data.geojson" %}
