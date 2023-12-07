@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-44.4217905, 169.64046100000002],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-02-27-te-araroa-day-129-ahuriri-river---melina-ridge/gps_data.geojson" %}
