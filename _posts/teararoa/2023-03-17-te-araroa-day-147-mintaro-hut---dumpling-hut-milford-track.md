@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 13,
                   "center": [-44.788646, 167.75876499999998],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-17-te-araroa-day-147-mintaro-hut---dumpling-hut-milford-track/gps_data.geojson" %}
