@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 13,
                   "center": [-46.6091745, 168.33801599999998],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-30-te-araroa-day-160-arrival-in-bluff/gps_data.geojson" %}
