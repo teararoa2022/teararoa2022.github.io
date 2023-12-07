@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 13,
                   "center": [47.5463345, 14.6350585],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/austria/2023-10-15-at-hesshtte-gesuse-national-park---day-2/gps_data.geojson" %}
