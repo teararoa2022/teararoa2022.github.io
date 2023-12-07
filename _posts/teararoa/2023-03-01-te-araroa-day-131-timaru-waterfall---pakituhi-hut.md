@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-44.5498705, 169.41708799999998],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-01-te-araroa-day-131-timaru-waterfall---pakituhi-hut/gps_data.geojson" %}
