@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-45.234813, 168.172211],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-13-te-araroa-days-143-144-boundary-hut---mavora-lakes---te-anau/gps_data.geojson" %}
