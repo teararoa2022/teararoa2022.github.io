@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-45.060392, 168.21990399999999],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-12-te-araroa-day-142-greenstone-hut---boundary-hut/gps_data.geojson" %}
