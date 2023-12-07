@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 13,
                   "center": [47.80136, 16.01449],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/austria/2023-11-12-at-hohe-wand-/gps_data.geojson" %}
