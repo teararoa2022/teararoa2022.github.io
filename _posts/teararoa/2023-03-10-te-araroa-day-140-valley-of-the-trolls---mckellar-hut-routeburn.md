@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-44.793212999999994, 168.155334],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-10-te-araroa-day-140-valley-of-the-trolls---mckellar-hut-routeburn/gps_data.geojson" %}
