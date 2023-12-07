@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-46.897448, 167.850035],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-27-te-araroa-day-157-mason-bay-hut---freshwater-landing-hut-north-west-circuit/gps_data.geojson" %}
