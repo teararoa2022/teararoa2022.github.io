@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 14,
                   "center": [-37.0539585, 175.6924995],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-04-02-te-araroa---final-days-coromandel-auckland-and-flights-back/gps_data.geojson" %}
