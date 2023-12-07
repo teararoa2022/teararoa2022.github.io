@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-46.7070605, 167.8140605],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-24-te-araroa-day-154-yankee-river-hut---east-ruggedy-hut-north-west-circuit/gps_data.geojson" %}
