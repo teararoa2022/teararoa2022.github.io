@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 13,
                   "center": [47.709246, 15.783126],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/austria/2023-11-05-at-jacobskogel---ottohaus-/gps_data.geojson" %}
