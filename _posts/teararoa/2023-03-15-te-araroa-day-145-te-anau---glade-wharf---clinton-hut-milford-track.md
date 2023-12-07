@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 9,
                   "center": [-45.1644815, 167.82623999999998],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-15-te-araroa-day-145-te-anau---glade-wharf---clinton-hut-milford-track/gps_data.geojson" %}
