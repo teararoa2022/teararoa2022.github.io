@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-44.857338999999996, 167.840595],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-16-te-araroa-day-146-clinton-hut---mintaro-hut-milford-track/gps_data.geojson" %}
