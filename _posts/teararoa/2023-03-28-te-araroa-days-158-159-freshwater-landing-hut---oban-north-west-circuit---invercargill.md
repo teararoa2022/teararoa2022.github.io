@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-46.8848415, 168.02456949999998],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-28-te-araroa-days-158-159-freshwater-landing-hut---oban-north-west-circuit---invercargill/gps_data.geojson" %}
