@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 13,
                   "center": [-46.914181, 168.122963],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-21-te-araroa-day-150-151-invercargill---oban---ulva-island/gps_data.geojson" %}
