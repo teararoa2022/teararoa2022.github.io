@@ -10,7 +10,7 @@ visible: 1
 ---
 
 
-{% leaflet_map {"zoom" : 12,
+{% leaflet_map {"zoom" : 11,
                   "center": [-44.8747105, 168.8413825],
                  "divId" : "map_size" } %}
     {% leaflet_geojson "/assets/teararoa/2023-03-06-te-araroa-day-136-138-roses-hut---arrowtown---queenstown/gps_data.geojson" %}
