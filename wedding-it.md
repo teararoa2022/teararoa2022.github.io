@@ -31,7 +31,7 @@ da potervi accogliere al meglio.
 ## Conferma partecipazione {#conferma}
 
 Se riuscite a venire (e anche se non riuscite 😉), confermateci la partecipazione 
-[attraverso questo link](https://docs.google.com/forms/d/e/1FAIpQLSe9zNCWWGaaH4DYbEGRtSXPWIFe17hMcJD6UFUNsbGItwdbsg/viewform?usp=sf_link).
+[attraverso questo link](https://docs.google.com/forms/d/e/1FAIpQLSe9zNCWWGaaH4DYbEGRtSXPWIFe17hMcJD6UFUNsbGItwdbsg/viewform?usp=sf_link) entro il 30 aprile 2024.
 Potrete informarci di eventuali restrizioni alimentari e lasciarci un piccolo messaggio se lo desiderate!
 
 ## Alloggio
