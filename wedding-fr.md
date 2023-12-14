@@ -28,7 +28,7 @@ Merci de nous confirmer votre venue [par ici](#conferma).
 
 ## Réponse à l'invitation {#conferma}
 
-Merci de répondre à notre invitation en remplissant [ce formulaire.](https://docs.google.com/forms/d/e/1FAIpQLSe9zNCWWGaaH4DYbEGRtSXPWIFe17hMcJD6UFUNsbGItwdbsg/viewform?usp=sf_link)
+Merci de répondre à notre invitation en remplissant [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSe9zNCWWGaaH4DYbEGRtSXPWIFe17hMcJD6UFUNsbGItwdbsg/viewform?usp=sf_link) avant le 30 avril 2024.
 Vous pourrez nous informer d'un régime alimentaire particulier et nous laisser un petit message si vous le souhaitez!
 
 ## Logement
@@ -39,5 +39,5 @@ N'hésitez pas à nous contacter et nous vous donnerons des indications et des a
 
 ## Cadeau
 
-Le cadeau qui nous fait le plus plaisir est votre présence à notre mariage, et cela est déjà plus que suffisant! Si vous voulez malgré tout en faire plus, nous serions très touchés par une contribution pour notre voyage de noces et pour notre futur ensemble. Vous pouvez trouver nos coordonnées et nous laisser un message [par ici.](https://docs.google.com/forms/d/e/1FAIpQLSdVuDnrX9amj0AdRnc4_zaBlZO92A2GxR2uK33NTl3BSh2YGQ/viewform?usp=pp_url) Nous vous remercions du fond du coeur!
+Le cadeau qui nous fait le plus plaisir est votre présence à notre mariage, et cela est déjà plus que suffisant! Si vous voulez quand même faire quelque chose de plus, nous serions très touchés par une contribution pour notre voyage de noces et pour notre futur ensemble. Vous pouvez trouver nos coordonnées et nous laisser un message [par ici.](https://docs.google.com/forms/d/e/1FAIpQLSdVuDnrX9amj0AdRnc4_zaBlZO92A2GxR2uK33NTl3BSh2YGQ/viewform?usp=pp_url) Nous vous remercions du fond du coeur!
 
