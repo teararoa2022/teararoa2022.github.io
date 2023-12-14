@@ -7,13 +7,13 @@ permalink: /wedding-en
 ---
 
 
-After living together through many adventures, we would like to celebrate with you the start of the most important one: our wedding!
+After living together through many adventures, we would like to celebrate with you the start of our most important one: our wedding!
 
-Please confirm your attendance [here](#conferma)
+Please confirm your attendance [here](#conferma).
 
 ## Organization
 
-- When? Saturday, August 24, 2024, at 4:30 PM.
+- When? Saturday August 24th, 2024, at 4:30 PM.
 - Where? Agriturismo Cascina Fiamberta, Via Alzaia Pavese 31, 27012 Certosa di Pavia, Italy.
     - By car: ample parking is available in the courtyard of the agritourism.
     - By public transport: do not hesitate to contact us if you need a carpool.
@@ -29,7 +29,7 @@ Please confirm your attendance [here](#conferma)
 
 ## RSVP {#conferma}
 
-Please respond to our invitation by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe9zNCWWGaaH4DYbEGRtSXPWIFe17hMcJD6UFUNsbGItwdbsg/viewform?usp=sf_link).
+Please respond to our invitation by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe9zNCWWGaaH4DYbEGRtSXPWIFe17hMcJD6UFUNsbGItwdbsg/viewform?usp=sf_link) by April 30th, 2024.
 You can inform us of any dietary restrictions and leave us a little message if you wish!
 
 ## Accommodation
@@ -41,5 +41,5 @@ Do not hesitate to contact us, and we will provide you with directions and addre
 ## Gift
 
 The gift that would make us happiest is your presence at our wedding, and that is more than enough! 
-If you still want to do more, we would be very touched by a contribution to our honeymoon and our future life together. 
-You can find our details and leave us a message [here.](https://docs.google.com/forms/d/e/1FAIpQLSdVuDnrX9amj0AdRnc4_zaBlZO92A2GxR2uK33NTl3BSh2YGQ/viewform?usp=pp_url). We thank you from the bottom of our hearts!
+If you still want to do something more, we would be very touched by a contribution to our honeymoon and our future life together. 
+You can find our banking details and leave us a message [here.](https://docs.google.com/forms/d/e/1FAIpQLSdVuDnrX9amj0AdRnc4_zaBlZO92A2GxR2uK33NTl3BSh2YGQ/viewform?usp=pp_url) We thank you from the bottom of our hearts!
