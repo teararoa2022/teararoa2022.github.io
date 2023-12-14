@@ -1,8 +1,8 @@
 ---
-layout: marriage_theme
-title: Marriage
+layout: wedding_theme
+title: Wedding
 title_long: Ondine & Stefano
-permalink: /marriage-it
+permalink: /wedding-it
 ---
 
 Dopo tante avventure insieme vorremmo festeggiare con voi l'inizio di quella più importante!
@@ -32,4 +32,4 @@ Potete anche specificare eventuali allergie o intolleranze alimentari.
 
 Non sentitevi per niente obbligati di farci un regalo.
 
-![](/assets/marriage_main_photo.jpg)
+![](/assets/wedding_main_photo.jpg)
