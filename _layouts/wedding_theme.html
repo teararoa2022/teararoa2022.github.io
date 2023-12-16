@@ -3,15 +3,10 @@ layout: default
 ---
 
 <div class="wedding-page">
+    <img src="/assets/wedding_top.png" alt="Description of the image" id="title-image-top">
     <div class="title-section">
-        <img src="/assets/wedding_top.png" alt="Description of the image" id="title-image-top">
         <h1>{{ page.title_long }}</h1>
         <p>{{ page.wedding_date }}</p>
-<!--        <div class="overlay-text">-->
-<!--            <h1>{{ page.title_long }}</h1>-->
-<!--            <p>24th of August 2024</p>-->
-<!--        </div>-->
-
     </div>
 
     <div class="content-section">
@@ -99,6 +94,7 @@ layout: default
     #title-image {
         width: 100%;
         height: auto;
+        z-index: -2147483648;
     }
 
     .overlay-text {
