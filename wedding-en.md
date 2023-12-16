@@ -57,3 +57,8 @@ On August 24th we will hold a symbolic ceremony and the party.
 The gift that would make us happiest is your presence at our wedding, and that is more than enough! 
 If you still want to do something more, we would be very touched by a contribution to our honeymoon and our future life together. 
 You can find our banking details and leave us a message [here.](https://docs.google.com/forms/d/e/1FAIpQLSdVuDnrX9amj0AdRnc4_zaBlZO92A2GxR2uK33NTl3BSh2YGQ/viewform?usp=pp_url) We thank you from the bottom of our hearts!
+
+## Other information
+
+We will update the website as we have updated information, 
+check back here from time to time if you need more information.

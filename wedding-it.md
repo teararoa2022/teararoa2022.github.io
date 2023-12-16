@@ -59,3 +59,8 @@ Il regalo che ci farebbe più piacere è la vostra presenza al nostro matrimonio
 Se volete aggiungere qualcosa, saremmo molto toccati da un contributo per il viaggio di nozze e per il nostro futuro insieme.
 Potete trovare i nostri dettagli e lasciarci un messaggio [attraverso questo link.](https://docs.google.com/forms/d/e/1FAIpQLSdVuDnrX9amj0AdRnc4_zaBlZO92A2GxR2uK33NTl3BSh2YGQ/viewform?usp=pp_url) Vi ringraziamo dal profondo del cuore!
 
+## Altro
+
+Aggiorneremo il sito man mano che avremo informazioni aggiornate, 
+non dimenticatevi di controllare di tanto in tanto se avete bisogno di informazioni aggiuntive.
+
