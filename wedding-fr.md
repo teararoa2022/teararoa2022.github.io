@@ -36,6 +36,12 @@ Vous pourrez nous informer d'un régime alimentaire particulier et nous laisser 
 
 N'hésitez pas à nous contacter et nous vous donnerons des indications et des adresses de différents lieux où dormir. 
 
+## Le lendemain
+
+Beaucoup de personnes viendront de loin et resteront dormir à Pavia.
+Pour ceux qui le souhaitent, le lendemain nous nous retrouverons de manière informelle dans un endroit à définir.
+Sentez-vous libres de participer ou non selon ce qui vous arrange le plus.
+
 ## Mariage civil
 
 Pour le mariage civil nous nous marierons en mairie en Suisse dans les semaines précédentes. 

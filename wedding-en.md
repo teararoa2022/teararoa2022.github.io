@@ -37,6 +37,12 @@ You can inform us of any dietary restrictions and leave us a little message if y
 
 Do not hesitate to contact us, and we will provide you with directions and addresses for different places to stay.
 
+## The day after
+
+Many people will come from far away and stay overnight in Pavia.
+For those who wish, the next day we will meet informally in a place to be defined.
+Feel free to participate or not according to what suits you best.
+
 ## Civil wedding
 
 For the civil wedding we will get married in the town hall in Switzerland in the weeks before.

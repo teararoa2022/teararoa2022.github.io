@@ -37,12 +37,19 @@ Potrete informarci di eventuali restrizioni alimentari e lasciarci un piccolo me
 
 Non esitate a contattarci e vi daremo indicazioni e indirizzi di diversi posti dove alloggiare.
 
+## Il giorno dopo
+
+Molte persone verrano da lontano e si fermeranno la notte a Pavia.
+Per chi vuole, il giorno dopo ci troveremo in modo informale in un posto da definire.
+Sentitevi liberi di partecipare o meno secondo come vi è più conveniente.
+
 ## Matrimonio civile
 
 Per il matrimonio civile seguiremo l'usanza francese e ci sposeremo in comune in Svizzera nelle settimane precedenti.
 Non abbiamo ancora deciso la data. 
 Se volete partecipare anche alla cerimonia civile, siete ovviamente benvenuti.
 Il 24 agosto terremo una cerimonia simbolica e la festa.
+
 
 ![](/assets/wedding_main_photo.jpg)
 
