@@ -14,16 +14,16 @@ Merci de nous confirmer votre venue [par ici](#conferma).
 
 - Quand? Samedi 24 août 2024 à 16h30.
 - Où? Agriturismo Cascina Fiamberta, Via Alzaia Pavese 31, 27012 Certosa di Pavia, Italie.
-  - En voiture: un grand parking est à disposition dans la cour de l'agri-tourisme. La dernière partie de la route est à côté d'une piste cyclable.
-  - En transports en commun: n'hésitez pas à nous contacter si vous avez beosin d'un co-voiturage.
+  - En voiture: un grand parking est à disposition dans la cour de l'agri-tourisme. La dernière partie de la route est sur une piste cyclable autorisée aux voitures.
+  - En transports en commun: n'hésitez pas à nous contacter si vous avez besoin d'un co-voiturage.
     - Aéroports les plus proches:
       - Milano Linate: connecté à Milan par le métro.
       - Milano Malpensa: connecté à Milan en train.
       - Milano Orio al Serio: plus lointain, connecté à Milan en bus.
-    - Gares de train les plus proches (direct depuis de nombreuses gares de Milan):
+    - Gares de train les plus proches (avec trains directs depuis de nombreuses gares de Milan):
       - Pavia: puis un bus porte à Certosa di Pavia (peu fréquent le soir).
       - Certosa di Pavia.
-- Quel est le programme? Il y aura d'abord la cérémonie symbolique, puis l'apéritif, le repas et une soirée de fête.
+- Quel est le programme? Les festivités commenceront par la cérémonie de mariage, suivie d'un apéritif, d'un repas, et d'une soirée festive.
 
 {% include fiamberta_map.html %}
 
@@ -38,24 +38,18 @@ N'hésitez pas à nous contacter et nous vous donnerons des indications et des a
 
 ## Le lendemain
 
-Beaucoup de personnes viendront de loin et resteront dormir à Pavia.
-Pour ceux qui le souhaitent, le lendemain nous nous retrouverons de manière informelle dans un endroit à définir.
-Sentez-vous libres de participer ou non selon ce qui vous arrange le plus.
+Beaucoup de personnes viendront de loin et resteront dormir à Pavie. Pour ceux qui le souhaitent, nous nous retrouverons le lendemain à l'agri-tourisme de manière informelle. Sentez-vous libres de participer ou non!
 
 ## Mariage civil
 
-Pour le mariage civil nous nous marierons en mairie en Suisse dans les semaines précédentes. 
-Nous n'avons pas encore décidé de la date. ]
-Si vous souhaitez participer également à la cérémonie civile, vous êtes bien sûr les bienvenus. 
-Le 24 août nous tiendrons une cérémonie symbolique et la fête.
+Nous nous marierons civilement en Suisse quelques semaines avant la cérémonie symbolique et la fête du 24 août en Italie. La date et le lieu (la mairie) du mariage civil seront déterminés prochainement. Si vous souhaitez aussi participer à la cérémonie civile, vous êtes bien sûr les bienvenus!
 
 ![](/assets/wedding_main_photo.jpg)
 
 ## Cadeau
 
-Le cadeau qui nous fait le plus plaisir est votre présence à notre mariage, et cela est déjà plus que suffisant! Si vous voulez quand même faire quelque chose de plus, nous serions très touchés par une contribution pour notre voyage de noces et pour notre futur ensemble. Vous pouvez trouver nos coordonnées et nous laisser un message [par ici.](https://docs.google.com/forms/d/e/1FAIpQLSdVuDnrX9amj0AdRnc4_zaBlZO92A2GxR2uK33NTl3BSh2YGQ/viewform?usp=pp_url) Nous vous remercions du fond du coeur!
+Le cadeau qui nous fait le plus plaisir est votre présence à notre mariage, et cela est déjà plus que suffisant! Si vous voulez quand même faire quelque chose de plus, nous serions très touchés par une contribution pour notre voyage de noces et pour notre futur. Vous pouvez trouver nos coordonnées et nous laisser un message [par ici.](https://docs.google.com/forms/d/e/1FAIpQLSdVuDnrX9amj0AdRnc4_zaBlZO92A2GxR2uK33NTl3BSh2YGQ/viewform?usp=pp_url) Nous vous remercions du fond du coeur!
 
 ## Autres informations
 
-Nous mettrons à jour le site au fur et à mesure que nous aurons des informations mises à jour, 
-n'oubliez pas de vérifier de temps en temps si vous avez besoin d'informations supplémentaires.
+Ce site pourrait être mis à jour avec d'autres informations: n'oubliez pas de le vérifier de temps en temps (et/ou de nous contacter) si vous avez besoin d'informations complémentaires.
