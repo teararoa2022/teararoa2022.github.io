@@ -6,15 +6,14 @@ wedding_date: 24 Agosto 2024
 permalink: /wedding-it
 ---
 
-Dopo tante avventure insieme vorremmo festeggiare con voi l'inizio di quella più importante!
-Tenetevi liberi, e se potete [confermateci la partecipazione](#conferma) qui sotto, così
-da potervi accogliere al meglio.
+Dopo tante avventure insieme vorremmo festeggiare con voi l'inizio di quella più importante: il nostro matrimonio!
+Tenetevi liberi, e [confermateci la partecipazione](#conferma) qui sotto, così da potervi accogliere al meglio.
 
 ## Organizzazione
 
 - Quando? Sabato 24 Agosto 2024, ore 16:30.
 - Dove? Agriturismo Cascina Fiamberta, Via Alzaia Pavese 31, 27012 Certosa di Pavia, Italia.
-  - In macchina: un ampio parcheggio è disponibile nel cortile dell'agriturismo. L'ultimo pezzo di strada è accanto a una pista ciclabile.
+  - In macchina: un ampio parcheggio è disponibile nel cortile dell'agriturismo. L'ultimo pezzo di strada è su una pista ciclabile autorizzata alle macchine.
   - Con i mezzi pubblici: non esitate a contattarci se avete bisogno di un passaggio.
     - Aereoporti più vicini:
       - Milano Linate: collegato a Milano con la metropolitana.
@@ -40,15 +39,15 @@ Non esitate a contattarci e vi daremo indicazioni e indirizzi di diversi posti d
 ## Il giorno dopo
 
 Molte persone verrano da lontano e si fermeranno la notte a Pavia.
-Per chi vuole, il giorno dopo ci troveremo in modo informale in un posto da definire.
+Per chi vuole, ci troveremo il giorno dopo in modo informale.
 Sentitevi liberi di partecipare o meno secondo come vi è più conveniente.
 
 ## Matrimonio civile
 
-Per il matrimonio civile seguiremo l'usanza francese e ci sposeremo in comune in Svizzera nelle settimane precedenti.
+Per il matrimonio civile, seguiremo l'usanza francese e ci sposeremo in comune in Svizzera nelle settimane precedenti.
 Non abbiamo ancora deciso la data. 
 Se volete partecipare anche alla cerimonia civile, siete ovviamente benvenuti.
-Il 24 agosto terremo una cerimonia simbolica e la festa.
+Il 24 agosto terremo invece una cerimonia simbolica e la festa.
 
 
 ![](/assets/wedding_main_photo.jpg)
