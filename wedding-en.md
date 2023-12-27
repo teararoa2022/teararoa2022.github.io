@@ -15,7 +15,7 @@ Please confirm your attendance [here](#conferma).
 
 - When? Saturday August 24th, 2024, at 4:30 PM.
 - Where? Agriturismo Cascina Fiamberta, Via Alzaia Pavese 31, 27012 Certosa di Pavia, Italy.
-    - By car: ample parking is available in the courtyard of the agritourism. The last part of the road is next to a bike path.
+    - By car: ample parking is available in the courtyard of the agritourism. The last part of the road on bike path, on which cars are allowed.
     - By public transport: do not hesitate to contact us if you need a carpool.
         - Nearest airports:
             - Milano Linate: connected to Milan by subway.
@@ -24,7 +24,7 @@ Please confirm your attendance [here](#conferma).
         - Nearest train stations (direct from many stations in Milan):
             - Pavia: then a bus goes to Certosa di Pavia (infrequent in the evening).
             - Certosa di Pavia.
-- What is the program? There will be a symbolic ceremony first, then an aperitif, dinner and an evening of celebration.
+- What is the program? There will be the symbolic ceremony first, then an aperitif, a dinner, and a festive evening.
 
 {% include fiamberta_map.html %}
 
@@ -39,16 +39,11 @@ Do not hesitate to contact us, and we will provide you with directions and addre
 
 ## The day after
 
-Many people will come from far away and stay overnight in Pavia.
-For those who wish, the next day we will meet informally in a place to be defined.
-Feel free to participate or not according to what suits you best.
+Many people will be coming from afar and staying overnight in Pavia. For those who wish, we will meet informally at the agritourism site the following day. Feel free to participate or not!
 
 ## Civil wedding
 
-For the civil wedding we will get married in the town hall in Switzerland in the weeks before.
-We have not yet decided on the date.
-If you would like to participate in the civil ceremony as well, you are of course welcome.
-On August 24th we will hold a symbolic ceremony and the party.
+We will get married in Switzerland a few weeks before the symbolic ceremony and celebration of August 24 in Italy. The date and venue (town hall) for the civil wedding will be determined shortly. If you would also like to take part in the civil ceremony, you are more than welcome!
 
 ![](/assets/wedding_main_photo.jpg)
 
@@ -60,5 +55,4 @@ You can find our banking details and leave us a message [here.](https://docs.goo
 
 ## Other information
 
-We will update the website as we have updated information, 
-check back here from time to time if you need more information.
+This site may be updated with new information: please check back from time to time (and/or contact us) if you need further information.
