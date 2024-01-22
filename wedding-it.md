@@ -7,7 +7,7 @@ permalink: /wedding-it
 ---
 
 Dopo tante avventure insieme vorremmo festeggiare con voi l'inizio di quella più importante: il nostro matrimonio!
-Tenetevi liberi, e [confermateci la partecipazione](#conferma) qui sotto (anche se non riuscite a venire), così da potervi accogliere al meglio.
+Tenetevi liberi, e [confermateci la partecipazione](https://docs.google.com/forms/d/e/1FAIpQLSe9zNCWWGaaH4DYbEGRtSXPWIFe17hMcJD6UFUNsbGItwdbsg/viewform?usp=sf_link) (anche se non riuscite a venire), così da potervi accogliere al meglio.
 
 ## Organizzazione
 
