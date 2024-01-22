@@ -7,7 +7,7 @@ permalink: /wedding-it
 ---
 
 Dopo tante avventure insieme vorremmo festeggiare con voi l'inizio di quella più importante: il nostro matrimonio!
-Tenetevi liberi, e [confermateci la partecipazione](#conferma) qui sotto, così da potervi accogliere al meglio.
+Tenetevi liberi, e [confermateci la partecipazione](#conferma) qui sotto (anche se non riuscite a venire), così da potervi accogliere al meglio.
 
 ## Organizzazione
 
@@ -41,14 +41,6 @@ Non esitate a contattarci e vi daremo indicazioni e indirizzi di diversi posti d
 Molte persone verrano da lontano e si fermeranno la notte a Pavia.
 Per chi vuole, ci troveremo il giorno dopo in modo informale.
 Sentitevi liberi di partecipare o meno secondo come vi è più conveniente.
-
-## Matrimonio civile
-
-Per il matrimonio civile, seguiremo l'usanza francese e ci sposeremo in comune in Svizzera nelle settimane precedenti.
-Non abbiamo ancora deciso la data. 
-Se volete partecipare anche alla cerimonia civile, siete ovviamente benvenuti.
-Il 24 agosto terremo invece una cerimonia simbolica e la festa.
-
 
 ![](/assets/wedding_main_photo.jpg)
 
