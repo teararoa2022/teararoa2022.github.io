@@ -9,7 +9,7 @@ permalink: /wedding-en
 
 After living together through many adventures, we would like to celebrate with you the start of our most important one: our wedding!
 
-Please confirm your attendance [here](#conferma).
+Please confirm your attendance [here](https://docs.google.com/forms/d/e/1FAIpQLSe9zNCWWGaaH4DYbEGRtSXPWIFe17hMcJD6UFUNsbGItwdbsg/viewform?usp=sf_link), even if you can unfortunately not come to the wedding.
 
 ## Organization
 
@@ -40,10 +40,6 @@ Do not hesitate to contact us, and we will provide you with directions and addre
 ## The day after
 
 Many people will be coming from afar and staying overnight in Pavia. For those who wish, we will meet informally at the agritourism site the following day. Feel free to participate or not!
-
-## Civil wedding
-
-We will get married in Switzerland a few weeks before the symbolic ceremony and celebration of August 24 in Italy. The date and venue (town hall) for the civil wedding will be determined shortly. If you would also like to take part in the civil ceremony, you are more than welcome!
 
 ![](/assets/wedding_main_photo.jpg)
 
