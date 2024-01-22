@@ -8,7 +8,7 @@ permalink: /wedding-fr
 
 Après avoir vécu ensemble de nombreuses aventures, nous voudrions fêter avec vous le début de la plus importante d'entre elles: notre mariage! 
 
-Merci de nous confirmer votre venue [par ici](#conferma). 
+Merci de nous répondre à notre invitation [par ici](https://docs.google.com/forms/d/e/1FAIpQLSe9zNCWWGaaH4DYbEGRtSXPWIFe17hMcJD6UFUNsbGItwdbsg/viewform?usp=sf_link). 
 
 ## Organisation
 
@@ -39,10 +39,6 @@ N'hésitez pas à nous contacter et nous vous donnerons des indications et des a
 ## Le lendemain
 
 Beaucoup de personnes viendront de loin et resteront dormir à Pavie. Pour ceux qui le souhaitent, nous nous retrouverons le lendemain à l'agri-tourisme de manière informelle. Sentez-vous libres de participer ou non!
-
-## Mariage civil
-
-Nous nous marierons civilement en Suisse quelques semaines avant la cérémonie symbolique et la fête du 24 août en Italie. La date et le lieu (la mairie) du mariage civil seront déterminés prochainement. Si vous souhaitez aussi participer à la cérémonie civile, vous êtes bien sûr les bienvenus!
 
 ![](/assets/wedding_main_photo.jpg)
 
