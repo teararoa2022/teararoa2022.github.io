@@ -8,7 +8,7 @@ permalink: /wedding-fr
 
 Après avoir vécu ensemble de nombreuses aventures, nous voudrions fêter avec vous le début de la plus importante d'entre elles: notre mariage! 
 
-Merci de nous répondre à notre invitation [par ici](https://docs.google.com/forms/d/e/1FAIpQLSe9zNCWWGaaH4DYbEGRtSXPWIFe17hMcJD6UFUNsbGItwdbsg/viewform?usp=sf_link). 
+Merci de répondre à notre invitation [par ici](https://docs.google.com/forms/d/e/1FAIpQLSe9zNCWWGaaH4DYbEGRtSXPWIFe17hMcJD6UFUNsbGItwdbsg/viewform?usp=sf_link). 
 
 ## Organisation
 
