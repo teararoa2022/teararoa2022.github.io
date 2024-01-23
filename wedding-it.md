@@ -13,6 +13,10 @@ Tenetevi liberi, e [confermateci la partecipazione](https://docs.google.com/form
 
 - Quando? Sabato 24 Agosto 2024, ore 16:30.
 - Dove? Agriturismo Cascina Fiamberta, Via Alzaia Pavese 31, 27012 Certosa di Pavia, Italia.
+- Attenzione: a Pavia può fare molto caldo in agosto, quindi scegliete vestiti leggeri!
+- Il programma? Ci sarà prima la cerimonia di matrimonio, seguita da un aperitivo, una cena e una serata di festa.
+
+## Arrivare al matrimonio
   - In macchina: un ampio parcheggio è disponibile nel cortile dell'agriturismo. L'ultimo pezzo di strada è su una pista ciclabile autorizzata alle macchine.
   - Con i mezzi pubblici: non esitate a contattarci se avete bisogno di un passaggio.
     - Aereoporti più vicini:
@@ -22,7 +26,6 @@ Tenetevi liberi, e [confermateci la partecipazione](https://docs.google.com/form
     - Stazioni ferroviarie più vicine (diretto da molte stazioni di Milano):
       - Pavia: un bus porta a Certosa di Pavia (poco frequente la sera).
       - Certosa di Pavia.
-- Qual è il programma? Ci sarà prima la cerimonia simbolica, in seguito l'aperitivo, la cena e una serata di festa.
 
 {% include fiamberta_map.html %}
 
