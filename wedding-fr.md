@@ -14,6 +14,10 @@ Merci de nous répondre à notre invitation [par ici](https://docs.google.com/fo
 
 - Quand? Samedi 24 août 2024 à 16h30.
 - Où? Agriturismo Cascina Fiamberta, Via Alzaia Pavese 31, 27012 Certosa di Pavia, Italie.
+- A savoir: il peut faire très chaud aux alentours de Pavie en août, habillez-vous de préférence avec des vêtements légers!
+- Quel est le programme? Les festivités commenceront par la cérémonie de mariage, suivie d'un apéritif, d'un repas, et d'une soirée festive.
+
+- Comment se rendre au mariage?
   - En voiture: un grand parking est à disposition dans la cour de l'agri-tourisme. La dernière partie de la route est sur une piste cyclable autorisée aux voitures.
   - En transports en commun: n'hésitez pas à nous contacter si vous avez besoin d'un co-voiturage.
     - Aéroports les plus proches:
@@ -23,7 +27,6 @@ Merci de nous répondre à notre invitation [par ici](https://docs.google.com/fo
     - Gares de train les plus proches (avec trains directs depuis de nombreuses gares de Milan):
       - Pavia: puis un bus porte à Certosa di Pavia (peu fréquent le soir).
       - Certosa di Pavia.
-- Quel est le programme? Les festivités commenceront par la cérémonie de mariage, suivie d'un apéritif, d'un repas, et d'une soirée festive.
 
 {% include fiamberta_map.html %}
 
