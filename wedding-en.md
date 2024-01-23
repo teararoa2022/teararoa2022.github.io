@@ -15,16 +15,20 @@ Please confirm your attendance [here](https://docs.google.com/forms/d/e/1FAIpQLS
 
 - When? Saturday August 24th, 2024, at 4:30 PM.
 - Where? Agriturismo Cascina Fiamberta, Via Alzaia Pavese 31, 27012 Certosa di Pavia, Italy.
-    - By car: ample parking is available in the courtyard of the agritourism. The last part of the road on bike path, on which cars are allowed.
-    - By public transport: do not hesitate to contact us if you need a carpool.
-        - Nearest airports:
-            - Milano Linate: connected to Milan by subway.
-            - Milano Malpensa: connected to Milan by train.
-            - Milano Orio al Serio: further away, connected to Milan by bus.
-        - Nearest train stations (direct from many stations in Milan):
-            - Pavia: then a bus goes to Certosa di Pavia (infrequent in the evening).
-            - Certosa di Pavia.
-- What is the program? There will be the symbolic ceremony first, then an aperitif, a dinner, and a festive evening.
+- Please note: it can be very hot around Pavia in August, so dress lightly!
+- The program? The festivities begin with the wedding ceremony, followed by an aperitif, a dinner and a festive evening.
+
+## To get to the wedding
+
+- By car: ample parking is available in the courtyard of the agritourism. The last part of the road on bike path, on which cars are allowed.
+- By public transport: do not hesitate to contact us if you need a carpool.
+    - Nearest airports:
+        - Milano Linate: connected to Milan by subway.
+        - Milano Malpensa: connected to Milan by train.
+        - Milano Orio al Serio: further away, connected to Milan by bus.
+    - Nearest train stations (direct from many stations in Milan):
+        - Pavia: then a bus goes to Certosa di Pavia (infrequent in the evening).
+        - Certosa di Pavia.
 
 {% include fiamberta_map.html %}
 
