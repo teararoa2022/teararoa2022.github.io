@@ -37,7 +37,21 @@ Potrete informarci di eventuali restrizioni alimentari e lasciarci un piccolo me
 
 ## Alloggio
 
-Non esitate a contattarci e vi daremo indicazioni e indirizzi di diversi posti dove alloggiare.
+Secondo le vostre preferenze, potete alloggiare a Pavia o in un posto più vicino all'agriturismo.
+Vicino alla stazione di Pavia consigliamo 3 alberghi:
+
+- [Hotel Moderno](https://maps.app.goo.gl/8g26G76YXmneMQSK9) (4 stelle)
+- [Hotel Aurora](https://maps.app.goo.gl/RMNBTomzgw75K4Bf9) (3 stelle)
+- [Hotel Excelsior](https://maps.app.goo.gl/dwFTEhXBbvJumTGB8) (3 stelle)
+
+Sempre a Pavia, ma più lontano dalla stazione:
+
+- [Cascina Scova](https://maps.app.goo.gl/Xuemmo79AmmN27Mr9) (4 stelle)
+
+Non abbiamo esperienza diretta di Bed & Breakfast, ma ce ne sono diversi che sembrano carini sia
+a Certosa di Pavia che a Pavia. Ne aggiungeremo a questa lista nei prossimi giorni/settimane.
+
+Non esitate a contattarci per consigli e qualunque altra informazione.
 
 ## Il giorno dopo
 

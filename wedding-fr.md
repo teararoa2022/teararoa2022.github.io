@@ -37,7 +37,22 @@ Vous pourrez nous informer d'un régime alimentaire particulier et nous laisser 
 
 ## Logement
 
-N'hésitez pas à nous contacter et nous vous donnerons des indications et des adresses de différents lieux où dormir. 
+Selon vos préférences, vous pouvez loger à Pavie ou dans un endroit plus proche de l'agritourisme.
+Près de la gare de Pavie, nous recommandons 3 hôtels:
+
+- [Hotel Moderno](https://maps.app.goo.gl/8g26G76YXmneMQSK9) (4 étoiles)
+- [Hotel Aurora](https://maps.app.goo.gl/RMNBTomzgw75K4Bf9) (3 étoiles)
+- [Hotel Excelsior](https://maps.app.goo.gl/dwFTEhXBbvJumTGB8) (3 étoiles)
+
+Toujours à Pavie, mais plus loin de la gare:
+
+- [Cascina Scova](https://maps.app.goo.gl/Xuemmo79AmmN27Mr9) (4 étoiles)
+
+Nous n'avons pas d'expérience directe de Bed & Breakfast, 
+mais il y en a plusieurs qui semblent sympas, à la fois à Certosa di Pavia et à Pavia. 
+Nous en ajouterons à cette liste dans les prochains jours/semaines.
+
+N'hésitez pas à nous contacter pour des conseils et toute autre information.
 
 ## Le lendemain
 

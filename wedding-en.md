@@ -39,7 +39,22 @@ You can inform us of any dietary restrictions and leave us a little message if y
 
 ## Accommodation
 
-Do not hesitate to contact us, and we will provide you with directions and addresses for different places to stay.
+According to your preferences, you can stay in Pavia or in a place closer to the agritourism.
+Near Pavia station we recommend 3 hotels:
+
+- [Hotel Moderno](https://maps.app.goo.gl/8g26G76YXmneMQSK9) (4 stars)
+- [Hotel Aurora](https://maps.app.goo.gl/RMNBTomzgw75K4Bf9) (3 stars)
+- [Hotel Excelsior](https://maps.app.goo.gl/dwFTEhXBbvJumTGB8) (3 stars)
+
+Still in Pavia, but further from the station:
+
+- [Cascina Scova](https://maps.app.goo.gl/Xuemmo79AmmN27Mr9) (4 stars)
+
+We do not have direct experience of Bed & Breakfast, 
+but there are several that look nice, both in Certosa di Pavia and in Pavia.
+We will add some to this list in the coming days/weeks.
+
+Do not hesitate to contact us for advice and any other information.
 
 ## The day after
 
