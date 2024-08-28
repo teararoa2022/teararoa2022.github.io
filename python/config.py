@@ -53,6 +53,7 @@ REGEX_TO_TAGS = {
     r"Alta Via 9.*": ["altavia9", "hiking"],
     r"Te Araroa.*": ["teararoa", "hiking"],
     r"AT:.*": ["austria", "hiking"],
+    r"R:.*": ["reunion", "hiking"],
 }
 
 GOOGLE_KEY = "AIzaSyC1MId7bFpkLXNAaYhBSTb8jLyiSqzbDtM"
