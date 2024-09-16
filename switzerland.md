@@ -4,7 +4,7 @@ title: Switzerland
 title_long: Switzerland
 tag: switzerland
 permalink: /switzerland/
-order: 6
+order: 7
 ---
 
 {% leaflet_map {"zoom" : 7,
