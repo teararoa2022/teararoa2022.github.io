@@ -45,7 +45,7 @@ def generate_posts(strava_interface: StravaInterface) -> List[StravaPost]:
     activities = strava_interface.get_activities(
         # before=datetime.datetime.today() - datetime.timedelta(days=2),
         before=datetime.datetime.today(),
-        after=datetime.datetime.today() - datetime.timedelta(days=360),
+        after=datetime.datetime.today() - datetime.timedelta(days=360 * 5),
         activity_filter=activity_filter,
     )
     strava_posts = [StravaPost(activity) for activity in activities]
