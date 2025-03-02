@@ -1,7 +1,7 @@
 ---
 layout: trekking
 title: Te Araroa
-title_long: Te Araroa - New Zealand - 2022
+title_long: Te Araroa, New Zealand - October 2022-April 2023
 tag: teararoa
 permalink: /teararoa/
 order: 1
