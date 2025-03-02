@@ -1,7 +1,7 @@
 ---
 layout: trekking
 title: Alta Via 9
-title_long: Alta Via 9 - Dolomites - 2021
+title_long: Alta Via 9, Dolomites, Italy - August-September 2021
 tag: altavia9
 permalink: /altavia9/
 order: 4
