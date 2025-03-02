@@ -1,7 +1,7 @@
 ---
 layout: trekking
 title: TMB 
-title_long: Tour du Mont Blanc - August 2022
+title_long: Tour du Mont Blanc, France, Italy and Switzerland - August 2022
 tag: tmb
 permalink: /tmb/
 order: 3
