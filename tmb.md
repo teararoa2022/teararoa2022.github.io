@@ -1,7 +1,7 @@
 ---
 layout: trekking
 title: TMB 
-title_long: Tour du Mont Blanc - 2022
+title_long: Tour du Mont Blanc - August 2022
 tag: tmb
 permalink: /tmb/
 order: 3
