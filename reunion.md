@@ -1,7 +1,7 @@
 ---
 layout: trekking
-title: Réunion
-title_long: Réunion - 2024
+title: La Réunion
+title_long: La Réunion - August-September 2024
 tag: reunion
 permalink: /reunion/
 order: 6
